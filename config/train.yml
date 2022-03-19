@@ -13,7 +13,7 @@ exp_name:
   bart # name of the experiment, will be used as prefix for the checkpoint folder. If it contains 'debug', logs won't be saved.
 
 datasets:
-  pretrain: semcor_0.7 # name of the dataset used for pre-training. It has to be the same name of a file in the data/ folder, with format {pretrain_name}_train.tsv
+  pretrain: alasca # name of the dataset used for pre-training. It has to be the same name of a file in the data/ folder, with format {pretrain_name}_train.tsv
   #finetune: # optional: name of the dataset used for fine-tuning (after pre-training). The same format of pretrain holds. If it is specified, a checkpoint has to be given to the train script.
   dev: coinco_twsi # dev set name. It has to correspond to a dataset in data/ with the name {dev_name}_dev.tsv
   test: lst # test set name. It has to correspond to a dataset in data/{test_name}/{test_name}_test.tsv
