@@ -1,0 +1,3095 @@
+stand.v 15000 ::: shine
+here.r 12177 ::: 
+eyebrow.n 15727 ::: eyeball
+be.n 7816 ::: was
+say.v 14845 ::: utter;declare;state
+colombian.a 2730 ::: 
+helping.n 5613 ::: guidance
+wo.v 14203 ::: 
+well.r 1894 ::: good
+away.r 2310 ::: out
+well.r 8541 ::: good
+here.r 9221 ::: 
+cheek.n 15630 ::: jaw
+liberal.n 12107 ::: moderate
+to.r 6730 ::: revisit
+seem.v 6828 ::: feel;appear;come
+begin.v 13140 ::: start;commence;proceed
+small.a 5612 ::: little;slight
+say.v 10396 ::: utter
+say.v 14360 ::: declare;remark;utter
+well.r 5069 ::: good
+be.n 7465 ::: 
+pull.v 7823 ::: put;force;yank;push
+here.r 10358 ::: 
+here.r 15023 ::: 
+relationship.n 17585 ::: connection;association
+here.r 5836 ::: 
+begin.v 5992 ::: start;launch
+shiver.a 6296 ::: 
+say.v 15456 ::: declare;state;utter
+contract.n 5123 ::: agreement
+display.n 6629 ::: 
+display.n 6632 ::: exhibit
+finish.n 9214 ::: result
+responsibility.n 18224 ::: duty
+session.n 19662 ::: 
+well.r 1358 ::: good
+look.n 6430 ::: appear
+small.a 11997 ::: little;miniature;slight;diminutive;inferior
+be.n 13056 ::: 
+here.r 14840 ::: 
+away.r 15470 ::: out
+colony.n 4164 ::: community;group
+session.n 19618 ::: period
+steam.n 21060 ::: 
+seem.v 523 ::: appear;feel
+say.v 2381 ::: explain;mention;state;declare
+be.n 2894 ::: 
+recognize.v 7416 ::: see;observe
+earwax.n 8064 ::: 
+seem.v 9243 ::: appear
+say.v 15261 ::: utter;declare;state
+display.n 6649 ::: show
+dvd.n 7213 ::: movie
+mark.n 12682 ::: 
+port.n 15986 ::: 
+responsibility.n 18218 ::: 
+screen.n 19097 ::: display
+session.n 19613 ::: 
+session.n 19634 ::: 
+turn.n 23216 ::: 
+something.n 1124 ::: 
+say.v 1224 ::: declare;utter
+murmur.v 3079 ::: mutter;utter
+here.r 4866 ::: 
+begin.v 6772 ::: start;commence;proceed
+anyone.n 6980 ::: person
+begin.v 8871 ::: commence;proceed
+begin.v 14047 ::: commence;launch;proceed
+look.n 14918 ::: 
+be.n 15001 ::: 
+here.r 15378 ::: 
+PC.n 51 ::: officer
+adult.n 356 ::: 
+brain.n 2392 ::: 
+combat.n 4255 ::: fighting
+display.n 6647 ::: screen
+factory.n 8439 ::: 
+phone.n 15324 ::: receiver;handset
+session.n 19558 ::: 
+session.n 19568 ::: 
+session.n 19641 ::: period
+soundtrack.n 20321 ::: 
+turn.n 23173 ::: round
+here.r 821 ::: 
+stand.v 2896 ::: 
+say.v 4072 ::: mention;utter;declare;state
+home.n 4163 ::: 
+else.r 5136 ::: 
+begin.v 10229 ::: start;commence;proceed
+still.r 15119 ::: remainderly
+dead.a 15250 ::: 
+here.r 15466 ::: 
+adult.n 363 ::: juvenile;young
+message.n 13169 ::: communication
+session.n 19592 ::: 
+session.n 19606 ::: term;period
+technique.n 22211 ::: method
+technique.n 22223 ::: method
+else.r 1279 ::: 
+away.r 1283 ::: 
+pay.v 1857 ::: 
+white.a 2559 ::: 
+say.v 3040 ::: utter;declare
+say.v 5210 ::: state;utter;declare
+be.n 5784 ::: 
+phone.n 6603 ::: handset
+say.v 7086 ::: state;declare;utter
+still.r 7281 ::: 
+begin.v 7456 ::: start;commence;proceed
+small.a 8022 ::: slight;diminutive
+tear.v 8038 ::: break
+be.n 8859 ::: 
+always.r 8906 ::: ever;repeatedly
+concern.n 9902 ::: worry
+begin.v 12168 ::: start;commence;proceed
+say.v 13261 ::: utter;declare;call
+well.r 13413 ::: good
+say.v 14824 ::: mention;utter;declare
+small.a 14863 ::: little;slight
+here.r 15277 ::: 
+flight.n 9410 ::: journey
+householder.n 10821 ::: 
+relationship.n 17581 ::: association
+relationship.n 17617 ::: partnership;association;tie
+screen.n 19077 ::: 
+soundtrack.n 20333 ::: 
+step.n 21129 ::: walk
+technique.n 22216 ::: method
+turn.n 23203 ::: 
+finally.r 1577 ::: 
+say.v 6034 ::: utter;declare
+begin.v 6422 ::: start;commence;proceed
+still.r 7220 ::: 
+stand.v 9561 ::: hold;endure;continue
+say.v 9880 ::: declare;state
+anyone.n 10392 ::: 
+here.r 10598 ::: 
+begin.v 11153 ::: commence;proceed
+seem.v 12979 ::: appear
+still.r 14199 ::: 
+turn.n 15392 ::: twist;move
+here.r 15446 ::: 
+here.r 15783 ::: 
+white.a 15908 ::: pale
+PC.n 78 ::: 
+carrier.n 3081 ::: vehicle
+carrier.n 3095 ::: 
+display.n 6641 ::: presentation
+flight.n 9409 ::: journey
+hero.n 10503 ::: leader
+port.n 16022 ::: 
+relationship.n 17625 ::: association;tie
+strike.n 21429 ::: attack
+violence.n 23858 ::: 
+eyebrow.n 472 ::: 
+begin.v 706 ::: commence;start;proceed
+home.n 798 ::: 
+say.v 2531 ::: utter;declare
+begin.v 3501 ::: start;commence;proceed;launch
+here.r 4169 ::: 
+pay.v 4602 ::: 
+concern.n 4670 ::: worry;anxiety
+confident.a 7965 ::: positive
+say.v 7973 ::: remark;utter
+skim.a 8175 ::: sniffle
+well.r 9060 ::: good
+pull.v 10727 ::: stop;move;go
+be.n 11447 ::: 
+stand.v 13142 ::: 
+something.n 15393 ::: 
+slave.n 15687 ::: 
+leave.a 15712 ::: 
+here.r 15765 ::: 
+climate.n 3906 ::: 
+colony.n 4176 ::: territory;region;division
+combat.n 4254 ::: fighting;warfare
+contract.n 5130 ::: agreement;partnership
+display.n 6621 ::: exhibit
+dvd.n 7215 ::: 
+finding.n 9196 ::: discover
+mark.n 12676 ::: 
+orchestra.n 14739 ::: 
+port.n 15989 ::: 
+responsibility.n 18226 ::: 
+screen.n 19093 ::: display
+strike.n 21450 ::: attack;hit
+sub.n 21669 ::: 
+trading.n 22863 ::: commerce;business
+violence.n 23848 ::: aggression
+say.v 961 ::: state;declare;mention
+say.v 1109 ::: state;remark;express;declare;utter
+say.v 1356 ::: declare;remark;utter
+salad.n 4023 ::: 
+say.v 9148 ::: utter;remark;declare;state
+pound.n 9178 ::: 
+trouble.n 9669 ::: difficulty
+say.v 10597 ::: call;declare;utter;exclaim
+earlier.a 12819 ::: previous
+say.v 13379 ::: utter;exclaim;declare
+finally.r 13457 ::: 
+here.r 14321 ::: 
+here.r 15279 ::: 
+here.r 15432 ::: 
+border.n 2218 ::: boundary
+combat.n 4247 ::: warfare;fighting
+combat.n 4250 ::: warfare
+concern.n 4634 ::: worry
+concern.n 4641 ::: worry
+depth.n 6279 ::: extent
+display.n 6653 ::: show
+era.n 7717 ::: period;day;epoch
+leader.n 11929 ::: head
+port.n 15997 ::: harbor
+relationship.n 17546 ::: association
+return.n 18347 ::: 
+session.n 19594 ::: meeting
+soundtrack.n 20327 ::: 
+step.n 21104 ::: 
+step.n 21113 ::: 
+strike.n 21474 ::: blow
+still.r 1277 ::: nonetheless;nevertheless;even
+mil.n 2766 ::: 
+barrier.n 3969 ::: obstacle;blockage;impediment
+area.n 4017 ::: region;place;section;part
+say.v 5091 ::: state;declare;utter
+here.r 5804 ::: 
+something.n 5981 ::: 
+well.r 6689 ::: good
+say.v 7224 ::: utter;declare;state
+here.r 7282 ::: 
+differ.v 10056 ::: vary;contrast;diverge;deviate
+say.v 10359 ::: declare;utter
+something.n 10473 ::: 
+own.v 12452 ::: possess;have
+jump.v 13260 ::: leap;rush;spring
+well.r 14881 ::: good
+say.v 14964 ::: utter
+liquid.a 15246 ::: clear
+anyone.n 15295 ::: 
+hero.n 15349 ::: 
+well.r 15377 ::: good
+pain.n 15893 ::: effort
+border.n 2219 ::: boundary
+carrier.n 3074 ::: 
+climate.n 3911 ::: atmosphere
+combat.n 4252 ::: warfare;fighting
+combat.n 4256 ::: fighting;warfare;battle
+dark.n 5873 ::: black
+display.n 6635 ::: 
+dvd.n 7220 ::: 
+finding.n 9203 ::: 
+instrumental.n 11133 ::: 
+leadership.n 11950 ::: supervisor
+liberal.n 12108 ::: moderate
+mark.n 12698 ::: 
+mark.n 12699 ::: 
+phone.n 15329 ::: handset
+relationship.n 17488 ::: association
+responsibility.n 18235 ::: duty
+responsibility.n 18237 ::: duty
+session.n 19598 ::: period
+step.n 21103 ::: 
+strike.n 21413 ::: attack
+violence.n 23855 ::: hostility
+team.n 521 ::: crew
+say.v 1790 ::: utter;declare
+home.n 1807 ::: dwelling;residence;place
+assist.v 1906 ::: help;support
+be.n 5407 ::: 
+achieve.v 5839 ::: accomplish;reach
+something.n 6638 ::: 
+balance.v 7994 ::: rest;stand;hold
+stand.v 8408 ::: 
+build.v 8872 ::: develop;start;begin
+be.n 9037 ::: 
+tear.v 9068 ::: break;take
+shout.n 9425 ::: yell;call
+pronounced.a 11198 ::: 
+touch.v 11771 ::: feel;grasp
+equal.a 12610 ::: equivalent
+unsuccessfully.r 13444 ::: effortless
+still.r 13498 ::: 
+appoint.v 13680 ::: make;name;designate
+chef.n 14322 ::: 
+PC.n 80 ::: computer
+carrier.n 3071 ::: 
+commander.n 4343 ::: leader;head
+display.n 6663 ::: 
+liberal.n 12124 ::: moderate
+mark.n 12658 ::: 
+phone.n 15326 ::: handset
+relationship.n 17485 ::: association;partnership
+screen.n 19066 ::: 
+session.n 19637 ::: period
+steam.n 21061 ::: 
+step.n 21099 ::: stride;walk;movement
+step.n 21120 ::: stride;movement;tread;move
+step.n 21126 ::: movement;move
+strike.n 21432 ::: hit
+trading.n 22868 ::: selling
+trading.n 22877 ::: commerce
+turn.n 23141 ::: movement;shift;change
+turn.n 23153 ::: twist;reverse
+seem.v 436 ::: appear
+still.r 577 ::: nevertheless;even
+caller.n 1961 ::: 
+say.v 2393 ::: state;mention;declare
+shoot.n 3390 ::: pistol
+flight.n 4804 ::: journey;travel
+touch.v 5418 ::: feel;grasp
+say.v 5585 ::: declare;utter
+here.r 6439 ::: 
+home.n 7030 ::: 
+species.n 8324 ::: breed;type
+backlash.n 8727 ::: disapproval
+look.n 9733 ::: 
+say.v 10725 ::: order;command;direct;summon
+pay.v 10973 ::: provide;get;take
+flight.n 12248 ::: step
+something.n 12381 ::: 
+home.n 12522 ::: residence;dwelling;place;area
+phone.n 12552 ::: handset
+several.a 13474 ::: some
+wo.v 15210 ::: 
+small.a 15502 ::: little
+PC.n 68 ::: computer
+PC.n 75 ::: 
+carrier.n 3072 ::: 
+carrier.n 3101 ::: 
+climate.n 3931 ::: atmosphere
+colony.n 4165 ::: region
+depth.n 6295 ::: 
+display.n 6666 ::: exhibit
+era.n 7719 ::: period;epoch;age
+finding.n 9199 ::: 
+language.n 11825 ::: 
+language.n 11829 ::: dialect
+language.n 11832 ::: dialect
+language.n 11837 ::: dialect;speech
+popularity.n 15967 ::: 
+port.n 15993 ::: 
+relationship.n 17504 ::: 
+relationship.n 17551 ::: association;tie
+screen.n 19062 ::: 
+screen.n 19065 ::: 
+session.n 19553 ::: 
+session.n 19576 ::: term;period
+step.n 21102 ::: 
+step.n 21117 ::: 
+step.n 21127 ::: move;tread
+strike.n 21445 ::: blow
+sub.n 21627 ::: 
+trading.n 22881 ::: commerce;business
+dame.n 95 ::: 
+begin.v 423 ::: commence;proceed
+dark.n 459 ::: 
+else.r 469 ::: 
+wrist.n 554 ::: forearm
+here.r 640 ::: 
+crazy.a 924 ::: insane
+something.n 1929 ::: 
+pull.v 2187 ::: remove;take
+curious.a 2275 ::: intrigued;inquisitive
+say.v 3373 ::: declare;utter
+say.v 3613 ::: state;declare;utter
+finally.r 4603 ::: 
+say.v 5086 ::: remark;state;declare;utter;mention
+be.n 6436 ::: 
+pay.v 7363 ::: 
+own.v 7628 ::: possess;have
+small.a 7808 ::: slight;diminutive
+say.v 8168 ::: state;declare;mention
+concern.n 8724 ::: worry;anxiety
+stand.v 8801 ::: 
+spirit.n 8879 ::: 
+slave.n 8974 ::: 
+something.n 9054 ::: 
+worth.a 12301 ::: good
+flight.n 12431 ::: step
+say.v 12693 ::: assert;state;mention;declare
+say.v 13023 ::: declare;utter;remark;state
+still.r 13138 ::: 
+clinical.a 13303 ::: 
+say.v 13461 ::: utter;exclaim;declare;state;remark
+chef.n 14429 ::: 
+say.v 15396 ::: call;declare;utter
+worth.a 15549 ::: good
+PC.n 48 ::: 
+PC.n 59 ::: 
+PC.n 70 ::: 
+adult.n 373 ::: 
+audience.n 1300 ::: spectators;crowd;people;group
+border.n 2214 ::: 
+carrier.n 3099 ::: airline
+commander.n 4341 ::: leader;head
+contract.n 5117 ::: agreement;pact;franchise
+contract.n 5118 ::: agreement;pact
+depth.n 6273 ::: 
+display.n 6678 ::: show
+dvd.n 7218 ::: 
+hero.n 10493 ::: champion
+language.n 11826 ::: dialect
+language.n 11849 ::: 
+mark.n 12692 ::: 
+message.n 13171 ::: 
+orchestra.n 14738 ::: 
+orchestra.n 14741 ::: 
+port.n 16024 ::: 
+port.n 16027 ::: harbor
+relationship.n 17501 ::: association
+relationship.n 17510 ::: association
+relationship.n 17552 ::: association
+relationship.n 17563 ::: association
+relationship.n 17564 ::: association
+step.n 21116 ::: movement;stride;move
+strike.n 21458 ::: attack;hit;blow
+strike.n 21475 ::: 
+sub.n 21617 ::: 
+sub.n 21668 ::: 
+technique.n 22213 ::: 
+say.v 941 ::: state;declare;mention
+shyly.r 1685 ::: faintly
+species.n 1762 ::: type;variety;kind
+spark.a 1967 ::: influence
+cheek.n 2889 ::: 
+recognize.v 3497 ::: perceive;see;view
+pull.v 5348 ::: take;get;yank
+still.r 5913 ::: 
+stand.v 6406 ::: move
+say.v 6797 ::: declare;utter;state;mention
+accord.v 7666 ::: 
+something.n 8098 ::: 
+classification.n 8236 ::: 
+inner.a 8520 ::: 
+seal.v 8685 ::: secure;pack
+maintain.v 8786 ::: continue;hold
+say.v 8917 ::: state;promise;declare
+trouble.n 9012 ::: 
+seem.v 9416 ::: appear;come
+say.v 9843 ::: declare;state;mention
+well.r 10475 ::: good
+seem.v 11079 ::: feel;appear;act;be;come
+seem.v 12215 ::: appear;be
+say.v 12826 ::: state;mention;declare
+seem.v 13188 ::: appear
+say.v 14295 ::: utter;declare;state;remark;mention
+touch.v 14378 ::: grasp
+crazy.a 15027 ::: insane
+worth.a 15319 ::: good
+look.n 15342 ::: expression;gaze;countenance
+here.r 15494 ::: 
+wo.v 15820 ::: 
+PC.n 38 ::: 
+PC.n 69 ::: computer
+battle.n 1754 ::: combat;warfare;skirmish
+concern.n 4638 ::: worry
+concern.n 4646 ::: worry
+contract.n 5131 ::: agreement
+era.n 7722 ::: period;time;epoch
+flight.n 9411 ::: travel;journey
+hero.n 10498 ::: 
+hero.n 10502 ::: 
+hero.n 10513 ::: 
+instrumental.n 11142 ::: 
+liberal.n 12130 ::: moderate
+message.n 13159 ::: significance
+relationship.n 17597 ::: association
+responsibility.n 18214 ::: duty
+screen.n 19078 ::: 
+sea.n 19169 ::: 
+session.n 19564 ::: 
+session.n 19586 ::: conference
+session.n 19593 ::: period
+session.n 19644 ::: meeting
+spirit.n 20448 ::: feeling;character;disposition;temperament
+steam.n 21069 ::: 
+strike.n 21421 ::: attack
+technique.n 22217 ::: method
+technique.n 22224 ::: method
+trading.n 22867 ::: commerce;business
+trading.n 22880 ::: commerce
+pull.v 529 ::: take;bring;get
+factory.n 837 ::: 
+team.n 890 ::: squad;company
+away.r 1063 ::: off;out
+performance.n 1479 ::: 
+say.v 1576 ::: state;declare;opine;advise;mention
+say.v 1640 ::: declare;utter;exclaim
+say.v 3399 ::: state;declare;remark;utter;mention
+shipping.n 4941 ::: transport;conveyance
+begin.v 4994 ::: start;commence;proceed;launch
+still.r 5984 ::: 
+seem.v 7377 ::: appear;come;be
+say.v 7813 ::: utter;remark;declare
+say.v 7901 ::: state;call;utter;mention;declare
+curious.a 8932 ::: 
+own.v 9085 ::: possess;have
+stand.v 9419 ::: come
+always.r 11211 ::: ever
+fiscal.a 11873 ::: 
+here.r 12907 ::: 
+here.r 13059 ::: 
+begin.v 13175 ::: commence;proceed
+mirror.v 13183 ::: 
+touch.v 13331 ::: feel
+train.v 13663 ::: instruction;teach;instruct
+hearing.n 13876 ::: sense;perceive
+wrist.n 14383 ::: 
+PC.n 42 ::: 
+adult.n 372 ::: 
+adult.n 374 ::: juvenile;child;young
+carrier.n 3089 ::: 
+contract.n 5129 ::: 
+depth.n 6280 ::: 
+display.n 6638 ::: exhibit
+display.n 6657 ::: screen
+display.n 6674 ::: exhibit
+finding.n 9197 ::: 
+finding.n 9201 ::: 
+finish.n 9217 ::: win
+half.n 10348 ::: part;section;segment
+hero.n 10500 ::: 
+language.n 11843 ::: 
+leadership.n 11948 ::: administration;command
+liberal.n 12131 ::: progressive;moderate
+phone.n 15321 ::: handset
+port.n 15994 ::: 
+relationship.n 17471 ::: association
+relationship.n 17500 ::: association;tie
+relationship.n 17518 ::: association
+relationship.n 17570 ::: association;tie
+relationship.n 17575 ::: association
+relationship.n 17589 ::: association
+relationship.n 17623 ::: association
+relationship.n 17626 ::: association
+responsibility.n 18225 ::: 
+return.n 18321 ::: 
+screen.n 19112 ::: 
+sea.n 19163 ::: 
+session.n 19639 ::: period
+session.n 19650 ::: 
+soundtrack.n 20323 ::: 
+strike.n 21459 ::: 
+strike.n 21466 ::: pitch
+strike.n 21472 ::: attack
+technique.n 22220 ::: method
+turn.n 23183 ::: move;position
+turn.n 23193 ::: show
+assent.n 1931 ::: concurrence;enthusiasm
+stand.v 2434 ::: sit;situate;be;appear
+say.v 2942 ::: state;declare;express
+something.n 3080 ::: 
+begin.v 3111 ::: commence;proceed;launch
+good.r 3141 ::: 
+still.r 3326 ::: even
+half.n 3435 ::: 
+phone.n 3522 ::: handset
+say.v 4259 ::: utter;mention;state;declare
+something.n 5024 ::: 
+say.v 5211 ::: utter;declare;mention
+phone.n 5587 ::: handset
+sky.n 6645 ::: atmosphere;stratosphere
+something.n 6656 ::: 
+be.n 6778 ::: 
+brain.n 7197 ::: 
+embargo.n 7207 ::: deportation
+several.a 7231 ::: different
+something.n 7741 ::: 
+be.n 7748 ::: 
+say.v 7751 ::: offer;state;utter;declare;mention;remark
+anyone.n 7884 ::: 
+small.a 7989 ::: slight;diminutive
+benefit.v 7998 ::: gain;receive;get
+conviction.n 8196 ::: belief;certainty
+say.v 8925 ::: state;declare;mention
+else.r 9491 ::: 
+something.n 9815 ::: 
+carbon.n 9892 ::: 
+say.v 10085 ::: state;declare;mention
+democracy.n 10112 ::: 
+say.v 10898 ::: declare;utter;mention
+say.v 11471 ::: state;express;opine;declare;mention
+area.n 12876 ::: location;section;part;place
+fiscal.a 12945 ::: 
+pair.n 13063 ::: duo
+assist.v 13339 ::: support
+small.a 13572 ::: slight
+something.n 14398 ::: 
+here.r 14416 ::: 
+due.n 14461 ::: 
+here.r 14638 ::: 
+look.n 14724 ::: glance;gaze;glare
+valiantly.r 14822 ::: carefully
+stand.v 15507 ::: sit;situate;remain;wait
+say.v 15648 ::: utter;declare;state;mention
+step.n 15706 ::: walk;move
+thousand.n 15752 ::: numerous
+PC.n 53 ::: computer
+audience.n 1293 ::: group;people
+campus.n 2819 ::: 
+carrier.n 3107 ::: 
+climate.n 3920 ::: atmosphere;situation;state
+commander.n 4339 ::: leader;head
+depth.n 6286 ::: extent
+depth.n 6299 ::: 
+display.n 6631 ::: screen
+display.n 6667 ::: screen
+display.n 6673 ::: exhibit
+dvd.n 7221 ::: 
+era.n 7715 ::: period;age;epoch
+flight.n 9407 ::: 
+gas.n 9889 ::: 
+hero.n 10495 ::: 
+hero.n 10516 ::: 
+mark.n 12672 ::: 
+mark.n 12678 ::: 
+mark.n 12696 ::: 
+mark.n 12740 ::: 
+message.n 13165 ::: 
+orchestra.n 14743 ::: 
+port.n 15988 ::: 
+relationship.n 17491 ::: association
+relationship.n 17524 ::: 
+return.n 18339 ::: 
+session.n 19554 ::: term;period
+session.n 19619 ::: 
+session.n 19645 ::: term;period
+session.n 19660 ::: 
+spirit.n 20449 ::: character;disposition;feeling
+turn.n 23142 ::: twist;swerve;move
+say.v 417 ::: declare;utter
+say.v 810 ::: state;declare;mention;utter;remark
+begin.v 976 ::: commence;start;launch
+always.r 1227 ::: ever
+say.v 1965 ::: declare;mention;state
+say.v 2736 ::: declare;state;mention
+stand.v 2898 ::: sit;wait;stay;situate;remain
+away.r 3000 ::: 
+white.a 3077 ::: 
+pound.n 3136 ::: 
+say.v 3339 ::: suppose
+here.r 5088 ::: 
+say.v 5384 ::: remark;utter;exclaim;declare
+pound.n 5450 ::: 
+area.n 5732 ::: region;section;place;part
+else.r 6374 ::: 
+be.n 6438 ::: 
+phone.n 7832 ::: handset
+horn.n 7852 ::: car
+say.v 8616 ::: remark;declare;utter;mention;state
+say.v 8721 ::: state;mention;declare
+achieve.v 8785 ::: accomplish
+say.v 8788 ::: state;mention
+say.v 9528 ::: state;mention;explain;declare
+fiscal.a 9536 ::: 
+say.v 9652 ::: mention;state;express;declare
+here.r 9739 ::: 
+stand.v 10471 ::: sit;move;come
+pecan.n 10767 ::: pomegranate
+pecan.n 10774 ::: coconut
+optic.a 11037 ::: 
+say.v 11097 ::: mention;utter;remark;declare;state
+say.v 11780 ::: state;mention;declare
+say.v 12503 ::: mention;state;maintain;declare
+relevant.a 12550 ::: 
+seem.v 12928 ::: appear
+half.n 14602 ::: 
+still.r 15606 ::: 
+PC.n 74 ::: 
+adult.n 371 ::: person;personage
+battle.n 1752 ::: 
+brain.n 2401 ::: 
+campus.n 2813 ::: 
+carrier.n 3076 ::: 
+commander.n 4338 ::: leader;head
+commander.n 4344 ::: leader;officer;head
+concern.n 4636 ::: worry;anxiety
+concern.n 4647 ::: worry
+display.n 6630 ::: screen
+display.n 6668 ::: show
+dvd.n 7219 ::: 
+flight.n 9386 ::: flying
+gas.n 9886 ::: 
+hero.n 10489 ::: 
+hero.n 10507 ::: 
+language.n 11830 ::: 
+liberal.n 12111 ::: progressive;moderate
+message.n 13156 ::: communication
+message.n 13181 ::: communication
+phone.n 15322 ::: 
+relationship.n 17547 ::: tie;association;partnership
+relationship.n 17606 ::: association;tie
+relationship.n 17621 ::: association
+screen.n 19103 ::: 
+screen.n 19116 ::: display
+session.n 19585 ::: class
+session.n 19602 ::: 
+session.n 19608 ::: 
+session.n 19620 ::: term;period
+session.n 19631 ::: period
+session.n 19643 ::: 
+spirit.n 20453 ::: character;feeling;disposition;temperament
+steam.n 21067 ::: 
+steam.n 21070 ::: 
+step.n 21095 ::: 
+step.n 21110 ::: 
+step.n 21122 ::: movement;move
+strike.n 21438 ::: attack
+strike.n 21444 ::: hit
+strike.n 21461 ::: attack
+sub.n 21616 ::: 
+sub.n 21625 ::: 
+technique.n 22218 ::: method
+turn.n 23136 ::: 
+turn.n 23215 ::: show
+well.r 239 ::: good
+pound.n 1338 ::: 
+say.v 1346 ::: state;utter;declare;mention
+say.v 2899 ::: remark;utter;declare;mention
+say.v 3022 ::: state;declare;remark;utter;mention
+say.v 3105 ::: state;declare;remark;mention;utter
+say.v 3935 ::: utter;declare
+here.r 5383 ::: 
+say.v 5889 ::: remark;utter;declare
+step.n 6035 ::: 
+say.v 6282 ::: mention;remark;utter
+hero.n 6559 ::: 
+else.r 7285 ::: 
+team.n 7328 ::: 
+handsome.a 7621 ::: beautiful
+something.n 8519 ::: 
+handsome.a 8639 ::: beautiful
+half.n 8841 ::: 
+say.v 9337 ::: remark;utter;declare
+build.v 9369 ::: construct;create;erect;make
+away.r 10988 ::: out
+approve.v 11070 ::: approval;support
+criminal.a 11164 ::: felonious
+fishery.n 11581 ::: 
+team.n 11728 ::: squad
+home.n 12144 ::: residence;dwelling;structure;place;area
+wrist.n 12157 ::: 
+say.v 12181 ::: remark;utter;exclaim
+seem.v 13060 ::: appear;act;be
+weird.a 13499 ::: crazy
+say.v 13711 ::: state;mention;declare;opine
+crude.n 13935 ::: petroleum;fuel;gas
+either.r 14271 ::: additionally
+flight.n 14337 ::: journey
+return.n 15199 ::: 
+pull.v 15599 ::: push;get;bring
+here.r 15770 ::: 
+wo.v 15825 ::: 
+PC.n 85 ::: computer
+border.n 2216 ::: boundary
+brain.n 2396 ::: 
+brain.n 2400 ::: 
+brain.n 2402 ::: 
+carrier.n 3079 ::: 
+carrier.n 3083 ::: 
+colony.n 4169 ::: region;division
+combat.n 4246 ::: fighting
+combat.n 4249 ::: battle;fighting
+dark.n 5861 ::: black
+dark.n 5863 ::: 
+dark.n 5864 ::: black;shadow
+dark.n 5877 ::: black;shadow
+dark.n 5879 ::: 
+display.n 6677 ::: show;exhibit
+factory.n 8430 ::: 
+flight.n 9397 ::: flying;journey
+home.n 10674 ::: location;base
+instrumental.n 11130 ::: 
+instrumental.n 11145 ::: 
+instrumental.n 11151 ::: 
+liberal.n 12120 ::: moderate
+mark.n 12664 ::: token
+mark.n 12688 ::: 
+message.n 13196 ::: communication
+port.n 15995 ::: 
+port.n 16001 ::: 
+relationship.n 17571 ::: partnership;association
+relationship.n 17610 ::: partnership;association
+responsibility.n 18216 ::: duty
+return.n 18335 ::: 
+session.n 19580 ::: 
+session.n 19587 ::: term;period
+session.n 19630 ::: meeting
+session.n 19640 ::: class
+session.n 19653 ::: meeting
+step.n 21112 ::: 
+strike.n 21424 ::: attack
+studio.n 21581 ::: 
+studio.n 21586 ::: 
+sub.n 21619 ::: 
+sub.n 21670 ::: 
+technique.n 22222 ::: method
+trading.n 22872 ::: 
+trading.n 22879 ::: commerce;business
+turn.n 23171 ::: change;twist;move;movement
+turn.n 23182 ::: 
+turn.n 23202 ::: change;shift
+turn.n 23209 ::: twist;move;shift;movement;change
+violence.n 23851 ::: 
+gas.n 113 ::: 
+movement.n 1179 ::: effort
+say.v 1426 ::: remark;declare;utter
+psychological.a 1557 ::: mental;intellectual
+say.v 1842 ::: mention;utter;remark;declare
+say.v 2025 ::: state;mention;explain;declare
+say.v 2036 ::: state;remark;utter;declare;mention
+say.v 2168 ::: state;mention;declare
+chef.n 3550 ::: 
+turn.n 3979 ::: change;move;movement
+say.v 5174 ::: remark;state;declare;express;mention;utter
+say.v 5558 ::: mention;declare;utter;state
+say.v 5683 ::: explain;state;declare;mention
+phone.n 6097 ::: handset
+here.r 6369 ::: 
+say.v 6377 ::: call;utter
+say.v 6530 ::: utter;declare;state;mention
+something.n 6737 ::: 
+still.r 7027 ::: 
+own.v 7635 ::: possess;have
+home.n 8292 ::: 
+say.v 8706 ::: state;mention;declare;utter
+risk.v 8725 ::: deteriorate
+responsibility.n 8774 ::: duty
+flight.n 9173 ::: journey
+here.r 9743 ::: 
+pull.v 9862 ::: take;bring;get;lift
+say.v 9914 ::: mention;declare;state
+assignment.n 11334 ::: duty;arrangement;job;task
+display.n 11884 ::: 
+say.v 12642 ::: remark;utter;declare;exclaim
+well.r 14166 ::: good
+jump.v 14228 ::: leap;move;spring
+quinine.n 14462 ::: 
+half.n 14966 ::: part
+PC.n 47 ::: computer
+PC.n 67 ::: 
+PC.n 81 ::: 
+area.n 958 ::: field;domain;sphere;part
+campus.n 2812 ::: 
+commander.n 4340 ::: leader;head
+concern.n 4643 ::: 
+depth.n 6287 ::: extent
+depth.n 6296 ::: area;region;part
+flight.n 9381 ::: 
+gas.n 9887 ::: 
+language.n 11828 ::: dialect;speech
+language.n 11844 ::: dialect
+leader.n 11933 ::: head
+message.n 13163 ::: 
+message.n 13193 ::: significance
+phone.n 15323 ::: handset
+relationship.n 17469 ::: association
+relationship.n 17512 ::: connection;association
+relationship.n 17519 ::: association
+screen.n 19073 ::: display
+screen.n 19076 ::: 
+screen.n 19095 ::: 
+sea.n 19164 ::: 
+session.n 19556 ::: 
+session.n 19574 ::: term;period
+session.n 19589 ::: 
+session.n 19623 ::: 
+steam.n 21064 ::: 
+strike.n 21433 ::: walkout
+sub.n 21623 ::: 
+turn.n 23192 ::: 
+violence.n 23852 ::: 
+say.v 627 ::: utter;remark;declare
+chef.n 1076 ::: 
+say.v 1197 ::: state;declare;remark;utter
+say.v 1603 ::: state;mention;declare
+begin.v 1828 ::: commence;start;launch
+say.v 3739 ::: state;declare;mention;utter
+say.v 3770 ::: remark;utter;declare;state
+say.v 3877 ::: opine;utter;declare;state;mention
+accord.v 4234 ::: 
+say.v 5123 ::: mention;utter
+say.v 6553 ::: utter;remark;comment
+say.v 6879 ::: remark;utter;declare;exclaim
+afraid.a 7195 ::: anxious;apprehensive
+stretch.v 8017 ::: spread;extend;reach;go
+half.n 8308 ::: 
+say.v 8397 ::: call;utter;exclaim
+worth.a 8860 ::: good
+say.v 9319 ::: remark;state;utter;declare
+dead.a 9376 ::: 
+something.n 9414 ::: 
+home.n 9547 ::: dwelling
+concern.n 9913 ::: worry
+screen.n 10423 ::: cover;display
+say.v 11400 ::: state;mention;declare
+white.a 12160 ::: 
+leader.n 12886 ::: head;chief
+say.v 15333 ::: remark;state;declare;utter
+lover.n 15694 ::: partner;mate
+PC.n 60 ::: 
+PC.n 71 ::: 
+audience.n 1301 ::: crowd;people;populace;group
+climate.n 3912 ::: atmosphere;state;ambience
+climate.n 3919 ::: 
+climate.n 3934 ::: atmosphere
+colony.n 4163 ::: region
+depth.n 6291 ::: 
+dvd.n 7212 ::: 
+factory.n 8432 ::: 
+half.n 10341 ::: part;section
+liberal.n 12121 ::: moderate
+liberal.n 12122 ::: moderate
+liberal.n 12123 ::: progressive;moderate
+mark.n 12679 ::: label;stamp
+message.n 13204 ::: 
+movement.n 13797 ::: 
+movement.n 13804 ::: 
+movement.n 13805 ::: transport
+phone.n 15333 ::: 
+relationship.n 17559 ::: association
+responsibility.n 18217 ::: duty
+responsibility.n 18221 ::: 
+responsibility.n 18233 ::: 
+screen.n 19094 ::: display
+session.n 19572 ::: meeting;assembly
+session.n 19616 ::: term;period
+strike.n 21409 ::: pitch
+strike.n 21434 ::: attack;bombardment
+strike.n 21465 ::: attack
+studio.n 21574 ::: 
+studio.n 21579 ::: 
+trading.n 22876 ::: commerce;business
+turn.n 23166 ::: change
+say.v 213 ::: mention;state;declare
+chef.n 2088 ::: 
+say.v 2221 ::: state;declare;mention
+fail.v 3464 ::: deteriorate
+pair.n 4812 ::: duo;set
+white.a 5290 ::: pale
+bent.n 5416 ::: twist
+wrist.n 5467 ::: 
+lover.n 6103 ::: mate
+phone.n 7768 ::: handset
+scabbard.n 8404 ::: snare
+say.v 8865 ::: declare;mention;state
+say.v 9306 ::: state;express;declare
+say.v 9539 ::: state;mention;explain;declare
+town.n 9717 ::: 
+small.a 10292 ::: slight;diminutive
+something.n 10353 ::: 
+concern.n 10559 ::: worry;anxiety
+contract.n 10809 ::: agreement;pact
+touch.v 11985 ::: 
+say.v 12045 ::: declare;state;utter
+say.v 13356 ::: declare;utter;state;mention
+well.r 13576 ::: 
+here.r 14058 ::: 
+say.v 14059 ::: utter;declare;call
+here.r 14721 ::: 
+cup.n 15164 ::: pitcher
+wo.v 15173 ::: 
+border.n 2224 ::: 
+brain.n 2394 ::: 
+climate.n 3907 ::: atmosphere;situation;state
+climate.n 3925 ::: atmosphere
+colony.n 4166 ::: region;group
+combat.n 4253 ::: fighting
+concern.n 4637 ::: worry;anxiety
+dark.n 5872 ::: black;shadow
+dark.n 5880 ::: blackness;black
+depth.n 6266 ::: scope;extent
+depth.n 6284 ::: scope;extent
+factory.n 8435 ::: 
+finish.n 9213 ::: win
+flight.n 9380 ::: flying
+flight.n 9383 ::: run
+flight.n 9393 ::: journey
+hero.n 10510 ::: 
+householder.n 10809 ::: 
+language.n 11842 ::: speech
+mark.n 12736 ::: 
+movement.n 13798 ::: group
+orchestra.n 14747 ::: 
+port.n 15991 ::: 
+port.n 16023 ::: 
+relationship.n 17479 ::: association;tie
+relationship.n 17533 ::: association;tie
+relationship.n 17579 ::: association
+relationship.n 17603 ::: association
+return.n 18317 ::: 
+return.n 18326 ::: reappearance
+screen.n 19087 ::: cover
+screen.n 19088 ::: display
+screen.n 19092 ::: 
+session.n 19627 ::: meeting
+session.n 19658 ::: 
+spirit.n 20417 ::: energy
+spirit.n 20424 ::: energy;character;feeling
+strike.n 21411 ::: attack
+strike.n 21414 ::: walkout
+strike.n 21430 ::: 
+studio.n 21583 ::: lab;laboratory
+turn.n 23156 ::: go;move
+turn.n 23181 ::: 
+team.n 593 ::: 
+psychological.a 1193 ::: mental
+say.v 1820 ::: declare;state;utter
+say.v 2207 ::: state;express;declare
+embarrassed.a 2311 ::: mortified;flustered;shocked
+spirit.n 2949 ::: feeling;character;disposition;temperament
+here.r 3039 ::: 
+say.v 3482 ::: mention;remark;declare;utter;advise
+say.v 4248 ::: declare;state;mention
+flavor.n 4771 ::: taste;ambience
+say.v 4961 ::: mention;declare;state
+touch.v 5737 ::: feel;grasp
+pull.v 5760 ::: put;twist;move;get
+primarily.r 5780 ::: commonly
+culinary.a 5834 ::: chef
+something.n 6671 ::: 
+seem.v 6744 ::: appear
+trading.n 7400 ::: transaction;commerce
+home.n 7432 ::: dwelling
+say.v 7793 ::: declare;state;utter;offer;mention
+say.v 8124 ::: utter;state;declare
+say.v 8531 ::: utter;declare;state
+home.n 8718 ::: residence;shelter;place;lodging
+say.v 9689 ::: state;mention;declare
+well.r 10248 ::: good
+officially.r 11686 ::: 
+say.v 13239 ::: remark;state;declare;utter
+say.v 13335 ::: mention;state;declare
+say.v 13686 ::: mention;state;note;declare
+say.v 14386 ::: declare;mention;state;utter
+white.a 14556 ::: pale
+here.r 15075 ::: 
+worth.a 15258 ::: good
+here.r 15406 ::: 
+enjoy.v 15596 ::: experience
+unnerved.v 15605 ::: dreadful
+adult.n 370 ::: juvenile
+audience.n 1295 ::: crowd;people;group
+carrier.n 3070 ::: 
+climate.n 3922 ::: atmosphere
+combat.n 4251 ::: battle
+commander.n 4335 ::: leader;chief;head
+concern.n 4645 ::: worry;anxiety
+dark.n 5871 ::: black
+display.n 6624 ::: 
+display.n 6656 ::: exhibit
+display.n 6659 ::: exhibit
+era.n 7725 ::: period
+finding.n 9193 ::: 
+flight.n 9376 ::: division
+flight.n 9399 ::: 
+half.n 10340 ::: section;part
+half.n 10353 ::: part;section
+hero.n 10501 ::: 
+hero.n 10505 ::: 
+leadership.n 11949 ::: command;power;control
+liberal.n 12116 ::: moderate
+liberal.n 12126 ::: moderate
+mark.n 12661 ::: 
+mark.n 12732 ::: label
+message.n 13173 ::: communication
+orchestra.n 14744 ::: musician
+performance.n 15207 ::: 
+port.n 16020 ::: 
+relationship.n 17481 ::: association
+relationship.n 17509 ::: association
+relationship.n 17555 ::: association
+relationship.n 17557 ::: association;partnership
+relationship.n 17576 ::: association;tie
+relationship.n 17616 ::: association
+relationship.n 17618 ::: association;partnership
+relationship.n 17622 ::: association
+responsibility.n 18234 ::: 
+return.n 18333 ::: 
+session.n 19605 ::: period
+session.n 19651 ::: period
+soundtrack.n 20335 ::: 
+spirit.n 20433 ::: character;disposition;temperament
+spirit.n 20452 ::: character;disposition;feeling;temperament
+spirit.n 20456 ::: enthusiasm;energy
+step.n 21094 ::: stride;movement;move
+step.n 21096 ::: 
+step.n 21123 ::: level
+strike.n 21426 ::: attack;bombardment
+trading.n 22871 ::: 
+say.v 115 ::: state;mention;declare
+say.v 672 ::: state;declare;mention
+factory.n 975 ::: 
+build.v 1304 ::: construct;erect;create;make
+still.r 1736 ::: 
+say.v 1853 ::: remark;state;mention;declare;utter
+home.n 2745 ::: 
+still.r 2890 ::: 
+factory.n 3578 ::: 
+flight.n 3853 ::: journey
+concern.v 4091 ::: worry
+something.n 4957 ::: 
+seem.v 5457 ::: appear
+pay.v 5906 ::: balance
+chill.v 6571 ::: cool;calm;temper;decrease
+say.v 7254 ::: state;mention;declare
+fishery.n 7277 ::: 
+innovate.v 7354 ::: evolve
+turn.n 7588 ::: twist;change;shift;move;movement
+white.a 7613 ::: 
+here.r 7893 ::: 
+something.n 8065 ::: 
+well.r 8127 ::: good
+always.r 8352 ::: ever
+shimmer.v 8537 ::: gleam;shine
+shiver.a 9070 ::: 
+pull.v 9417 ::: get;force;bring
+away.r 9688 ::: 
+pay.v 9766 ::: give;offer;bestow;provide;present
+pay.v 9812 ::: give;get;take;accept
+still.r 10796 ::: 
+downturn.n 10843 ::: 
+always.r 11221 ::: 
+say.v 11591 ::: state;mention;declare
+say.v 12931 ::: remark;declare;utter;state;mention
+be.n 14330 ::: 
+here.r 14976 ::: 
+pain.n 15097 ::: 
+worth.a 15124 ::: good
+small.a 15541 ::: little;slight
+outsider.n 15618 ::: 
+adult.n 355 ::: juvenile;young
+adult.n 362 ::: juvenile;young
+adult.n 367 ::: 
+border.n 2220 ::: boundary
+campus.n 2814 ::: 
+campus.n 2817 ::: 
+climate.n 3927 ::: atmosphere;state
+colony.n 4161 ::: region;group
+colony.n 4173 ::: group
+concern.n 4649 ::: worry
+contract.n 5114 ::: agreement
+dark.n 5876 ::: black;shadow
+depth.n 6267 ::: 
+depth.n 6275 ::: scope
+display.n 6626 ::: screen
+display.n 6639 ::: 
+finding.n 9202 ::: 
+finding.n 9207 ::: detection;discovery
+flight.n 9398 ::: flying
+instrumental.n 11143 ::: 
+leadership.n 11940 ::: 
+leadership.n 11944 ::: administration;command;power
+mark.n 12655 ::: 
+movement.n 13809 ::: 
+relationship.n 17475 ::: association
+relationship.n 17478 ::: association
+relationship.n 17493 ::: association
+relationship.n 17531 ::: partnership;association
+return.n 18343 ::: yield
+session.n 19563 ::: term;period
+session.n 19565 ::: 
+session.n 19607 ::: term;period
+session.n 19654 ::: 
+soundtrack.n 20329 ::: 
+step.n 21118 ::: 
+strike.n 21439 ::: attack
+strike.n 21452 ::: hit
+strike.n 21471 ::: 
+sub.n 21622 ::: 
+team.n 22196 ::: squad
+turn.n 23143 ::: shift;change;move
+turn.n 23172 ::: 
+turn.n 23190 ::: change
+turn.n 23212 ::: twist;move
+say.v 85 ::: state;mention;declare
+blockbuster.n 544 ::: hit
+say.v 806 ::: state;declare;mention;utter
+criminal.a 1617 ::: illegal;immoral
+say.v 2356 ::: state;declare;utter;mention
+build.v 3018 ::: construct;create;make
+begin.v 5009 ::: start;commence;launch
+small.a 5010 ::: little;diminutive
+combat.n 5393 ::: battle;fighting
+steam.n 5584 ::: 
+something.n 5709 ::: 
+home.n 6484 ::: residence;place
+say.v 6670 ::: utter;declare
+touch.v 6976 ::: handle;feel;grasp
+seem.v 6997 ::: appear
+dig.n 7089 ::: examine
+mirror.v 7127 ::: 
+something.n 7159 ::: 
+something.n 7248 ::: 
+say.v 7699 ::: declare;remark;utter
+say.v 8767 ::: state;remark;declare;utter;mention
+begin.v 10312 ::: commence;start;proceed
+studio.n 10791 ::: 
+say.v 11086 ::: remark;utter;declare;mention
+begin.v 11119 ::: commence;start;proceed
+anxiety.n 11195 ::: worry
+ride.v 11298 ::: travel;hop;move;go
+home.n 11663 ::: residence;dwelling;place
+factory.n 11862 ::: 
+say.v 12061 ::: remark;state;mention;declare;utter
+pinch.v 12266 ::: snarl
+say.v 12548 ::: state;declare
+say.v 12883 ::: suppose
+paperwork.n 13677 ::: 
+assist.v 14410 ::: support
+town.n 14877 ::: 
+town.n 15061 ::: 
+return.n 15562 ::: repetition
+PC.n 43 ::: computer
+PC.n 56 ::: 
+PC.n 57 ::: 
+PC.n 62 ::: computer
+PC.n 72 ::: 
+PC.n 84 ::: 
+adult.n 376 ::: person;personage
+area.n 970 ::: field;region;section;part
+audience.n 1296 ::: crowd;populace;people;group
+battle.n 1751 ::: combat;warfare;competition;skirmish
+carrier.n 3091 ::: airline
+colony.n 4153 ::: group;pack
+colony.n 4157 ::: group;pack
+commander.n 4347 ::: leader;head
+depth.n 6272 ::: 
+finding.n 9200 ::: 
+gas.n 9884 ::: fuel;propane
+home.n 10676 ::: 
+language.n 11827 ::: dialect
+language.n 11834 ::: 
+language.n 11838 ::: 
+language.n 11839 ::: 
+leader.n 11937 ::: head
+leadership.n 11945 ::: command;control
+leadership.n 11951 ::: command;control
+liberal.n 12112 ::: moderate
+liberal.n 12118 ::: conservative;moderate
+mark.n 12652 ::: sign;indication;indicator
+message.n 13155 ::: meaning
+movement.n 13808 ::: group
+performance.n 15206 ::: 
+phone.n 15328 ::: 
+relationship.n 17474 ::: association
+relationship.n 17486 ::: association;partnership;tie
+relationship.n 17568 ::: association
+relationship.n 17580 ::: association;partnership
+responsibility.n 18228 ::: duty
+responsibility.n 18236 ::: 
+return.n 18330 ::: yield
+screen.n 19074 ::: display
+screen.n 19080 ::: cover
+screen.n 19085 ::: 
+screen.n 19109 ::: display
+session.n 19559 ::: meeting
+session.n 19569 ::: term;period
+soundtrack.n 20332 ::: 
+spirit.n 20446 ::: energy;character
+step.n 21089 ::: movement;move
+step.n 21101 ::: 
+strike.n 21412 ::: attack;bombardment
+strike.n 21431 ::: 
+strike.n 21442 ::: blow;hit
+strike.n 21453 ::: walkout
+strike.n 21455 ::: goal
+strike.n 21456 ::: knock
+turn.n 23138 ::: 
+turn.n 23148 ::: curve;part
+turn.n 23196 ::: move;shift
+jump.v 192 ::: increase;grow
+small.a 604 ::: slight;little
+say.v 1514 ::: state;declare;mention
+look.n 1759 ::: 
+small.a 2552 ::: slight;diminutive
+say.v 2607 ::: call;declare;utter
+fishery.n 2789 ::: 
+quarrel.v 2968 ::: disagreementing;disagree
+away.r 3207 ::: 
+factory.n 3491 ::: 
+doubt.n 3901 ::: certainty
+pull.v 6127 ::: 
+say.v 6178 ::: declare;call;utter
+begin.v 6202 ::: start;commence;proceed;launch
+pull.v 6410 ::: force;bring;push;get;yank
+build.v 6563 ::: generate;make;produce;stir
+strike.n 6721 ::: blow
+accord.v 7270 ::: 
+else.r 7885 ::: 
+say.v 8495 ::: declare;state;mention
+several.a 8776 ::: 
+influential.a 8792 ::: significant;important
+several.a 8807 ::: 
+always.r 9096 ::: 
+terrific.a 9847 ::: great;wonderful
+say.v 9900 ::: declare;state;mention
+studio.n 10802 ::: 
+be.n 11129 ::: 
+say.v 11171 ::: state;declare;utter;mention
+say.v 11555 ::: state;mention;declare
+say.v 11583 ::: state;declare;mention
+say.v 11680 ::: state;declare;mention
+say.v 11864 ::: state;mention;declare
+enjoy.v 12792 ::: experience;savor;take
+cheek.n 13161 ::: face
+still.r 13189 ::: 
+home.n 14154 ::: 
+half.n 14363 ::: part;section
+here.r 15692 ::: 
+say.v 15901 ::: mention;state;advise
+PC.n 45 ::: computer
+PC.n 82 ::: 
+adult.n 360 ::: 
+campus.n 2816 ::: 
+carrier.n 3084 ::: 
+climate.n 3918 ::: atmosphere
+colony.n 4175 ::: group;team
+contract.n 5119 ::: agreement
+depth.n 6264 ::: scope;extent
+depth.n 6278 ::: extent
+depth.n 6293 ::: extent
+factory.n 8429 ::: 
+factory.n 8431 ::: 
+finding.n 9206 ::: 
+finish.n 9218 ::: 
+flight.n 9377 ::: air;journey
+flight.n 9390 ::: 
+flight.n 9402 ::: 
+gas.n 9892 ::: 
+half.n 10350 ::: part;division;section
+instrumental.n 11132 ::: 
+leader.n 11928 ::: head
+leadership.n 11957 ::: command
+liberal.n 12110 ::: moderate
+mark.n 12663 ::: 
+movement.n 13801 ::: group
+popularity.n 15956 ::: usefulness
+popularity.n 15959 ::: 
+relationship.n 17502 ::: association;partnership
+responsibility.n 18232 ::: 
+return.n 18346 ::: 
+screen.n 19064 ::: 
+screen.n 19096 ::: 
+session.n 19584 ::: period
+session.n 19597 ::: period
+session.n 19600 ::: meeting;period
+soundtrack.n 20322 ::: 
+spirit.n 20437 ::: essence;character
+step.n 21093 ::: move
+step.n 21121 ::: stride;movement;move;run
+step.n 21124 ::: 
+sub.n 21630 ::: 
+turn.n 23159 ::: move;movement
+turn.n 23185 ::: change;shift;movement
+turn.n 23194 ::: move;shift;change
+say.v 353 ::: state;mention;declare
+say.v 372 ::: state;mention;declare
+area.n 658 ::: region;field;sphere;subject
+train.v 725 ::: 
+team.n 894 ::: squad
+say.v 1841 ::: state;declare;utter
+own.v 2651 ::: possess;have
+small.a 2715 ::: little;miniature;diminutive
+say.v 2844 ::: state;mention;declare
+say.v 3551 ::: state;mention;declare
+trading.n 4119 ::: transaction;business;commerce
+well.r 4299 ::: good
+thump.n 5040 ::: thud
+say.v 5221 ::: state;mention;declare;remark;utter
+own.v 5638 ::: possess;have
+say.v 5847 ::: state;advise;mention
+kinda.n 6195 ::: somewhat
+thousand.n 6523 ::: 
+say.v 6759 ::: utter;remark
+return.n 7383 ::: rejoinder
+say.v 7483 ::: state;declare;offer;mention
+biomedical.a 8671 ::: medication
+say.v 9482 ::: state;mention;declare
+trading.n 9885 ::: transaction
+open.r 10456 ::: 
+seem.v 10489 ::: appear;act
+pair.n 13792 ::: duo
+slave.n 15193 ::: 
+say.v 15571 ::: utter;declare;state;offer;mention
+border.n 2222 ::: 
+carrier.n 3082 ::: 
+colony.n 4171 ::: region
+contract.n 5113 ::: agreement;pact
+contract.n 5126 ::: agreement
+contract.n 5128 ::: agreement
+dark.n 5865 ::: blackness;gloom;shadow
+depth.n 6297 ::: 
+display.n 6637 ::: exhibit;show
+display.n 6643 ::: exhibit
+dvd.n 7222 ::: 
+flight.n 9379 ::: flying
+flight.n 9391 ::: 
+flight.n 9400 ::: journey
+leadership.n 11938 ::: 
+liberal.n 12119 ::: conservative;moderate
+mark.n 12693 ::: sign;indication;indicator
+message.n 13152 ::: communication;instruction
+message.n 13164 ::: statement;communication
+orchestra.n 14734 ::: 
+performance.n 15213 ::: operation
+popularity.n 15961 ::: 
+relationship.n 17472 ::: association
+relationship.n 17538 ::: association
+relationship.n 17539 ::: association;tie
+relationship.n 17541 ::: association
+relationship.n 17567 ::: partnership
+relationship.n 17602 ::: association
+relationship.n 17613 ::: association;partnership
+screen.n 19072 ::: display
+screen.n 19098 ::: 
+session.n 19624 ::: term;period
+session.n 19655 ::: 
+soundtrack.n 20328 ::: 
+spirit.n 20427 ::: essence;character;feeling
+step.n 21130 ::: stride;movement;move
+strike.n 21420 ::: attack
+strike.n 21462 ::: hit;blow
+team.n 22205 ::: 
+turn.n 23145 ::: 
+turn.n 23162 ::: number
+turn.n 23213 ::: 
+four.a 620 ::: three
+concern.v 723 ::: worry
+say.v 1508 ::: declare;state;mention
+partly.r 2214 ::: further
+chef.n 2286 ::: 
+say.v 2568 ::: opine;state;declare;mention
+responsibility.n 3104 ::: duty
+covering.n 3367 ::: top
+say.v 3535 ::: state;declare;utter;mention;express;offer
+say.v 4729 ::: state;remark;mention;utter;declare
+dangerous.a 5633 ::: hazardous
+say.v 6306 ::: utter;call
+tear.v 6582 ::: 
+say.v 7095 ::: declare;order;utter
+say.v 7356 ::: state;declare;utter
+trading.n 7445 ::: transaction;business
+stand.v 7877 ::: sit;come;situate
+say.v 8358 ::: declare;utter;exclaim
+say.v 9333 ::: utter;remark;comment
+watch.n 9794 ::: 
+buy.n 9834 ::: purchase
+white.a 9988 ::: 
+team.n 10079 ::: 
+hitech.n 10554 ::: 
+spirit.n 10670 ::: energy
+horn.n 10857 ::: 
+here.r 11226 ::: 
+fishery.n 11263 ::: 
+climate.n 11399 ::: 
+build.v 11869 ::: construct;make;create;fix
+say.v 11918 ::: state;opine;declare;mention
+acquisition.n 12255 ::: purchase;takeover;buyout;buying;buy
+dark.n 12477 ::: blackness;black;gloom;shadow
+say.v 13987 ::: state;mention;express;declare
+fluke.n 14710 ::: switch
+say.v 14941 ::: mention;remark;declare;utter
+cup.n 14987 ::: 
+adult.n 358 ::: juvenile
+battle.n 1741 ::: combat;skirmish
+battle.n 1745 ::: combat;warfare;skirmish;competition
+battle.n 1753 ::: combat;warfare;skirmish
+brain.n 2395 ::: 
+campus.n 2811 ::: 
+campus.n 2815 ::: 
+campus.n 2818 ::: 
+campus.n 2825 ::: 
+carrier.n 3092 ::: 
+carrier.n 3094 ::: 
+climate.n 3908 ::: 
+colony.n 4162 ::: group
+combat.n 4257 ::: warfare;fighting;skirmish
+dark.n 5869 ::: black;shadow
+display.n 6625 ::: screen
+display.n 6633 ::: 
+display.n 6645 ::: exhibit
+display.n 6654 ::: show
+display.n 6665 ::: exhibit;show
+factory.n 8433 ::: 
+factory.n 8434 ::: 
+finding.n 9198 ::: 
+gas.n 9897 ::: combustible
+hero.n 10497 ::: 
+home.n 10680 ::: 
+instrumental.n 11144 ::: 
+liberal.n 12132 ::: 
+liberal.n 12134 ::: moderate
+mark.n 12680 ::: 
+mark.n 12684 ::: sign;token
+message.n 13148 ::: communication;instruction
+message.n 13153 ::: 
+message.n 13200 ::: communication
+message.n 13202 ::: communication
+movement.n 13802 ::: turn;change
+orchestra.n 14733 ::: 
+port.n 16019 ::: 
+relationship.n 17484 ::: association
+relationship.n 17487 ::: association;partnership
+relationship.n 17507 ::: 
+relationship.n 17549 ::: association;partnership
+relationship.n 17596 ::: association
+relationship.n 17600 ::: association;partnership
+relationship.n 17607 ::: association
+relationship.n 17624 ::: association
+screen.n 19056 ::: 
+screen.n 19113 ::: display
+sea.n 19165 ::: 
+session.n 19591 ::: term;period
+session.n 19635 ::: 
+spirit.n 20430 ::: feeling;disposition;character;temperament
+spirit.n 20442 ::: feeling;energy;character
+step.n 21125 ::: move;movement
+strike.n 21447 ::: 
+strike.n 21460 ::: attack;assault;bombardment
+strike.n 21467 ::: attack;bombardment
+sub.n 21618 ::: 
+sub.n 21626 ::: 
+town.n 22763 ::: municipality
+turn.n 23139 ::: change;twist
+turn.n 23200 ::: move;movement
+turn.n 23208 ::: 
+say.v 14 ::: state;declare;mention
+say.v 126 ::: state;mention;declare
+begin.v 134 ::: commence;launch
+say.v 799 ::: utter;mention;declare
+say.v 1162 ::: state;utter;declare;mention;remark
+concern.n 1312 ::: worry;anxiety
+species.n 1713 ::: type;kind;variety
+fishery.n 2694 ::: 
+say.v 3351 ::: state;declare;mention
+factory.n 3359 ::: 
+say.v 3490 ::: state;declare;utter;mention
+watch.n 4115 ::: 
+expensive.a 4388 ::: pricey
+tenth.n 5148 ::: 
+say.v 5386 ::: mention;utter;call
+pain.n 6596 ::: soreness;tenderness;throb;disease
+white.a 6908 ::: 
+else.r 8394 ::: 
+assess.v 8420 ::: evaluate;determine
+fund.v 8454 ::: provide;give;support;assist
+rage.n 8543 ::: anger;indignation
+say.v 8642 ::: remark;state;utter;declare;mention
+begin.v 9574 ::: launch;start;commence
+say.v 10795 ::: state;declare;mention
+say.v 11007 ::: declare;utter;remark
+say.v 11127 ::: utter;declare;state
+prompt.v 11282 ::: cause;influence
+well.r 11743 ::: good
+white.a 12155 ::: 
+chef.n 12625 ::: 
+torso.n 12923 ::: body
+achieve.v 14017 ::: reach
+lining.n 14441 ::: covering;cover;wrapping
+trouble.n 15600 ::: problem
+PC.n 44 ::: 
+PC.n 50 ::: 
+border.n 2217 ::: 
+campus.n 2820 ::: 
+campus.n 2821 ::: 
+climate.n 3929 ::: atmosphere
+contract.n 5125 ::: agreement
+contract.n 5127 ::: agreement
+dark.n 5862 ::: 
+display.n 6661 ::: show
+finding.n 9205 ::: judgment;determination
+flight.n 9375 ::: division
+householder.n 10819 ::: possessor;person
+instrumental.n 11136 ::: 
+mark.n 12650 ::: 
+mark.n 12654 ::: point;spot
+mark.n 12660 ::: sign;indication
+mark.n 12666 ::: 
+mark.n 12670 ::: point
+mark.n 12674 ::: indicator
+mark.n 12689 ::: 
+mark.n 12737 ::: label
+message.n 13157 ::: communication
+message.n 13185 ::: 
+relationship.n 17495 ::: association
+relationship.n 17511 ::: association
+relationship.n 17522 ::: association
+relationship.n 17586 ::: association
+relationship.n 17604 ::: association
+responsibility.n 18231 ::: 
+screen.n 19069 ::: 
+screen.n 19075 ::: display
+sea.n 19157 ::: 
+session.n 19590 ::: 
+session.n 19646 ::: 
+soundtrack.n 20331 ::: 
+spirit.n 20438 ::: feeling;disposition;character;temperament
+step.n 21106 ::: movement
+strike.n 21427 ::: hit;knock
+strike.n 21473 ::: 
+studio.n 21576 ::: 
+team.n 22207 ::: crew
+technique.n 22225 ::: method
+turn.n 23158 ::: 
+turn.n 23177 ::: 
+look.n 22 ::: glimpse
+say.v 179 ::: mention;state;declare
+say.v 187 ::: mention;declare;state
+say.v 901 ::: remark;declare;utter
+pay.v 1607 ::: give;offer;provide
+team.n 2361 ::: organization;company
+contract.n 2857 ::: agreement
+nicoise.n 3701 ::: 
+say.v 4153 ::: state;utter;declare;mention;remark
+mirror.v 4187 ::: 
+say.v 4663 ::: utter;declare
+salt.v 4681 ::: 
+afraid.a 6875 ::: 
+eyebrow.n 8854 ::: 
+still.r 8973 ::: 
+slave.n 8987 ::: 
+say.v 9251 ::: state;declare;remark;mention;utter
+say.v 9943 ::: state;declare;mention;explain
+stand.v 10273 ::: appear;be
+stretch.v 10849 ::: spread;extend;reach;go
+acquisition.n 10865 ::: purchase;buying;buyout
+say.v 12268 ::: state;mention;declare;utter
+own.v 12659 ::: possess;have
+pain.n 12894 ::: distress;torture
+well.r 13204 ::: good
+lamp.n 14239 ::: light
+chef.n 14529 ::: 
+touch.v 14901 ::: feel;hold;grasp;handle
+PC.n 41 ::: 
+adult.n 357 ::: 
+adult.n 375 ::: person
+area.n 955 ::: territory;region;scope
+border.n 2215 ::: 
+climate.n 3923 ::: atmosphere;situation;state
+climate.n 3933 ::: atmosphere;situation;state
+colony.n 4154 ::: group
+dark.n 5878 ::: black;shadow
+depth.n 6285 ::: extent;scope
+depth.n 6300 ::: grade
+display.n 6618 ::: illustration
+display.n 6622 ::: screen
+display.n 6662 ::: screen
+dvd.n 7216 ::: 
+era.n 7721 ::: period;time;epoch
+era.n 7723 ::: age;period;epoch
+finding.n 9194 ::: ruling;determination;judgment;dismissal
+finish.n 9211 ::: end;last
+hero.n 10504 ::: 
+hero.n 10514 ::: 
+language.n 11840 ::: dialect
+liberal.n 12117 ::: moderate
+mark.n 12681 ::: label
+mark.n 12690 ::: 
+mark.n 12694 ::: 
+mark.n 12741 ::: trace
+message.n 13186 ::: communication;announcement
+orchestra.n 14737 ::: symphony
+relationship.n 17513 ::: association;partnership
+responsibility.n 18215 ::: duty;job
+responsibility.n 18219 ::: 
+return.n 18318 ::: 
+sea.n 19168 ::: 
+session.n 19561 ::: meeting;period
+session.n 19588 ::: period
+session.n 19657 ::: 
+spirit.n 20436 ::: character;feeling
+spirit.n 20440 ::: character
+spirit.n 20455 ::: 
+step.n 21100 ::: stride;move;movement
+strike.n 21435 ::: 
+strike.n 21437 ::: 
+sub.n 21624 ::: 
+sub.n 21631 ::: 
+technique.n 22214 ::: 
+say.v 1074 ::: state;mention;declare;remark;utter
+white.a 1152 ::: colorless
+say.v 1837 ::: utter;mention;declare;state
+say.v 1939 ::: state;declare;mention
+register.v 3335 ::: 
+approve.v 3511 ::: support;endorse
+lover.n 3764 ::: mate
+say.v 4161 ::: remark;state;declare;utter;mention
+pay.v 4249 ::: focus
+say.v 4749 ::: declare;utter
+always.r 5027 ::: ever
+something.n 5622 ::: 
+say.v 5816 ::: exclaim;utter;declare
+familiar.a 5819 ::: common
+say.v 6846 ::: state;mention;utter;declare
+say.v 7510 ::: state;declare;mention
+message.n 7830 ::: 
+chef.n 10016 ::: 
+concern.n 10037 ::: 
+small.a 11067 ::: slight;little
+say.v 11383 ::: state;declare;mention
+criminal.a 11667 ::: illegal
+pain.n 12048 ::: discomfort;aching;tingling;throb;disease
+chef.n 12622 ::: 
+say.v 12662 ::: state;mention;declare
+say.v 12890 ::: declare;mention;state;utter
+slave.n 13237 ::: 
+step.n 13326 ::: 
+here.r 13364 ::: 
+say.v 14522 ::: declare;state
+shoot.n 14722 ::: 
+return.n 14893 ::: 
+wo.v 15581 ::: 
+adult.n 365 ::: young
+area.n 954 ::: section;part
+area.n 961 ::: section;region;part;place
+commander.n 4336 ::: chief;leader;head
+concern.n 4635 ::: worry;anxiety
+dark.n 5874 ::: black;shadow
+depth.n 6290 ::: scope;reach
+display.n 6623 ::: exhibit
+display.n 6640 ::: show
+display.n 6679 ::: show
+factory.n 8440 ::: 
+half.n 10346 ::: part;section
+language.n 11833 ::: speech;communication
+language.n 11850 ::: dialect
+leadership.n 11952 ::: command;administration
+leadership.n 11954 ::: command;control
+liberal.n 12114 ::: moderate
+mark.n 12659 ::: 
+mark.n 12662 ::: grade
+mark.n 12733 ::: sign;indication
+message.n 13162 ::: 
+message.n 13166 ::: signal;communication
+message.n 13178 ::: 
+message.n 13190 ::: 
+movement.n 13800 ::: transport;passage
+orchestra.n 14740 ::: 
+popularity.n 15964 ::: 
+relationship.n 17476 ::: association;tie
+relationship.n 17498 ::: partnership
+relationship.n 17578 ::: partnership;association;tie
+relationship.n 17590 ::: association
+relationship.n 17591 ::: association
+return.n 18341 ::: 
+screen.n 19054 ::: 
+screen.n 19089 ::: 
+sea.n 19167 ::: 
+session.n 19638 ::: 
+spirit.n 20428 ::: feel;tone;feeling
+spirit.n 20458 ::: 
+steam.n 21072 ::: 
+step.n 21109 ::: bit;measure
+strike.n 21448 ::: hit
+strike.n 21454 ::: 
+studio.n 21573 ::: 
+sub.n 21621 ::: 
+team.n 22209 ::: squad
+turn.n 23207 ::: 
+violence.n 23854 ::: hostility
+say.v 55 ::: mention;state;declare
+still.r 97 ::: 
+acquisition.n 216 ::: purchase;buying;buyout
+say.v 276 ::: state;mention;declare
+innovate.v 1658 ::: 
+say.v 2121 ::: state;remark;mention;utter;declare
+trading.n 2198 ::: transaction
+away.r 2639 ::: out
+liquid.a 3380 ::: 
+say.v 3520 ::: mention;declare;state;utter;call
+enjoy.v 4112 ::: take
+say.v 4700 ::: utter;state;declare;exclaim;mention
+area.n 4726 ::: sphere;region;part;field
+seize.v 5452 ::: capture;take
+small.a 7000 ::: slight;diminutive
+always.r 8078 ::: ever
+local.n 8314 ::: 
+always.r 8349 ::: ever
+say.v 9214 ::: exclaim;utter;remark;declare
+classification.n 9798 ::: grouping;group
+colombian.a 10002 ::: 
+stretch.v 10303 ::: extend;grow;move
+pay.v 10778 ::: give;offer;get;acquire
+say.v 11017 ::: remark;state;declare;mention;utter
+partly.r 11735 ::: 
+customized.v 12572 ::: customizable;individualize
+acquisition.n 12898 ::: purchase;buyout;buy
+well.r 15546 ::: good
+PC.n 76 ::: 
+PC.n 83 ::: 
+audience.n 1288 ::: crowd;populace;people;group
+audience.n 1291 ::: populace;people;group
+battle.n 1749 ::: combat;warfare;skirmish
+carrier.n 3066 ::: 
+carrier.n 3097 ::: 
+climate.n 3930 ::: 
+contract.n 5122 ::: agreement
+factory.n 8436 ::: 
+finding.n 9195 ::: 
+flight.n 9401 ::: run
+gas.n 9891 ::: liquid;combustible
+half.n 10344 ::: part;section
+hero.n 10509 ::: 
+instrumental.n 11138 ::: 
+instrumental.n 11147 ::: 
+language.n 11824 ::: dialect
+leadership.n 11955 ::: command;administration;control
+mark.n 12656 ::: indication;indicator
+message.n 13172 ::: communication;statement
+performance.n 15216 ::: presentation;show
+popularity.n 15953 ::: 
+port.n 15987 ::: 
+port.n 16000 ::: 
+relationship.n 17482 ::: association
+relationship.n 17492 ::: partnership;association;tie
+relationship.n 17516 ::: association
+relationship.n 17528 ::: association
+relationship.n 17548 ::: association
+relationship.n 17566 ::: 
+return.n 18329 ::: 
+screen.n 19115 ::: display
+sea.n 19158 ::: ocean
+session.n 19611 ::: meeting
+spirit.n 20422 ::: character
+step.n 21105 ::: move;stride
+strike.n 21418 ::: 
+strike.n 21425 ::: walkout
+strike.n 21440 ::: blow;hit
+strike.n 21451 ::: attack;operation;bombardment
+strike.n 21480 ::: attack
+studio.n 21584 ::: 
+sub.n 21614 ::: 
+turn.n 23155 ::: shift;change;movement
+turn.n 23175 ::: curve
+violence.n 23849 ::: aggression;hostility;force
+say.v 1293 ::: utter;mention;declare
+watch.n 2011 ::: 
+phone.n 2075 ::: handset
+team.n 2138 ::: 
+say.v 4004 ::: declare;mention;state
+area.n 5151 ::: region;location;place;section;part
+white.a 5469 ::: colorless
+civilian.n 9948 ::: citizenry;people
+phone.n 10180 ::: handset
+recognize.v 10403 ::: perceive;see
+say.v 10599 ::: declare;utter;state
+worth.a 11130 ::: good
+mold.n 12796 ::: fungus
+something.n 13861 ::: 
+here.r 14214 ::: 
+cellophane.n 14372 ::: 
+say.v 14614 ::: mention;declare;state
+white.a 15183 ::: 
+PC.n 40 ::: 
+PC.n 63 ::: computer
+brain.n 2403 ::: 
+carrier.n 3090 ::: 
+colony.n 4172 ::: group
+contract.n 5120 ::: agreement
+dark.n 5868 ::: black;shadow
+depth.n 6265 ::: scope
+depth.n 6271 ::: extent;reach
+depth.n 6281 ::: scope
+display.n 6646 ::: exhibit;show
+era.n 7716 ::: age;period;epoch
+era.n 7726 ::: period;epoch
+factory.n 8441 ::: 
+flight.n 9404 ::: journey
+flight.n 9406 ::: flying
+instrumental.n 11141 ::: 
+instrumental.n 11150 ::: 
+language.n 11831 ::: speech;communication
+leader.n 11924 ::: chief;head
+leader.n 11934 ::: head;chief
+leadership.n 11941 ::: 
+liberal.n 12115 ::: moderate
+mark.n 12651 ::: 
+message.n 13150 ::: communication
+message.n 13195 ::: 
+message.n 13199 ::: 
+phone.n 15325 ::: handset
+phone.n 15332 ::: handset
+relationship.n 17536 ::: 
+relationship.n 17553 ::: partnership;association;tie
+relationship.n 17587 ::: association;partnership
+relationship.n 17612 ::: association
+screen.n 19067 ::: display
+session.n 19578 ::: term;period
+session.n 19604 ::: meeting
+soundtrack.n 20326 ::: 
+spirit.n 20441 ::: character
+spirit.n 20445 ::: disposition;character;feeling
+spirit.n 20454 ::: energy;disposition;character;feeling
+spirit.n 20459 ::: energy
+step.n 21119 ::: 
+strike.n 21443 ::: hit;knock
+strike.n 21463 ::: attack
+town.n 22773 ::: municipality
+trading.n 22870 ::: 
+turn.n 23134 ::: movement
+turn.n 23146 ::: development;change;shift
+turn.n 23152 ::: 
+turn.n 23188 ::: show
+violence.n 23850 ::: 
+distort.v 2511 ::: dismissive
+several.a 2522 ::: 
+match.v 2869 ::: equal;contrast
+something.n 5105 ::: 
+say.v 5594 ::: utter;remark;declare
+say.v 5803 ::: opine;declare;advise;state;mention
+still.r 6133 ::: even
+say.v 7163 ::: state;maintain;mention;opine
+team.n 8258 ::: company;troop
+achieve.v 8493 ::: accomplish
+say.v 8687 ::: utter;state;declare;mention
+stretch.v 8803 ::: extend;bend;move;twist
+say.v 9252 ::: utter;declare;state;mention
+say.v 9630 ::: state;declare;mention
+say.v 10534 ::: state;mention;declare;utter
+always.r 10822 ::: 
+say.v 12461 ::: state;mention;declare
+partly.r 12736 ::: 
+say.v 13026 ::: state;mention;declare;remark;utter
+say.v 13371 ::: mention;remark;declare;state
+stand.v 13462 ::: 
+home.n 15935 ::: 
+PC.n 64 ::: 
+adult.n 359 ::: young
+carrier.n 3075 ::: 
+colony.n 4156 ::: region;group
+colony.n 4168 ::: region;group
+colony.n 4170 ::: region;country
+colony.n 4174 ::: group;region
+commander.n 4334 ::: leader;chief;head
+concern.n 4651 ::: 
+dark.n 5860 ::: black
+depth.n 6269 ::: extent;scope
+depth.n 6283 ::: 
+display.n 6648 ::: exhibit
+display.n 6650 ::: screen
+era.n 7720 ::: period;time;epoch
+era.n 7724 ::: period;time;term
+finish.n 9221 ::: 
+gas.n 9896 ::: 
+hero.n 10491 ::: character;person
+hero.n 10515 ::: 
+mark.n 12667 ::: sign;label
+mark.n 12675 ::: indicator
+mark.n 12691 ::: symbol;label
+message.n 13154 ::: communication
+movement.n 13810 ::: effort
+relationship.n 17527 ::: association;partnership
+relationship.n 17544 ::: association
+relationship.n 17562 ::: association
+relationship.n 17595 ::: association
+relationship.n 17611 ::: association
+return.n 18328 ::: 
+return.n 18331 ::: 
+screen.n 19058 ::: 
+screen.n 19081 ::: 
+screen.n 19107 ::: cover
+session.n 19612 ::: term;period
+spirit.n 20412 ::: character;feeling
+spirit.n 20423 ::: character;disposition;feeling;temperament
+spirit.n 20425 ::: character;feeling
+steam.n 21063 ::: 
+strike.n 21476 ::: blow;attack
+strike.n 21477 ::: attack;hit
+turn.n 23169 ::: 
+acquisition.n 87 ::: purchase;buyout
+still.r 498 ::: 
+dark.n 737 ::: black
+team.n 1054 ::: 
+something.n 2495 ::: 
+pull.v 3378 ::: get;take
+factory.n 4281 ::: 
+pull.v 4709 ::: put;take;get;push;yank
+something.n 4731 ::: 
+say.v 7318 ::: state;mention;declare
+here.r 7607 ::: 
+factory.n 7756 ::: 
+cup.n 7879 ::: mug;pitcher;goblet;vessel
+leader.n 7895 ::: head
+say.v 7968 ::: declare;state;mention
+gift.n 8455 ::: present;presentation
+psychological.a 8679 ::: mental
+announcement.n 8731 ::: declaration;statement
+seem.v 9002 ::: appear;come
+say.v 9142 ::: state;declare;explain;mention
+here.r 9197 ::: 
+say.v 10032 ::: state;declare;mention
+area.n 11192 ::: region;location;place;section;part
+home.n 11676 ::: dwelling
+chef.n 12377 ::: 
+say.v 13002 ::: state;maintain;opine
+achieve.v 13065 ::: accomplish
+finally.r 13317 ::: 
+say.v 14008 ::: state;declare;mention
+alcoholic.a 14399 ::: 
+say.v 14530 ::: remark;comment;utter
+numerous.a 14619 ::: multitude
+say.v 15267 ::: mention;declare;state;advise
+carrier.n 3069 ::: warship;ship;fleet
+carrier.n 3086 ::: airline
+carrier.n 3098 ::: 
+climate.n 3917 ::: atmosphere
+combat.n 4245 ::: fighting;battle
+combat.n 4248 ::: warfare;fighting
+commander.n 4337 ::: leader;head;chief
+depth.n 6270 ::: scope;extent
+depth.n 6289 ::: 
+depth.n 6292 ::: scope
+display.n 6651 ::: screen
+dvd.n 7217 ::: 
+finish.n 9209 ::: result
+finish.n 9215 ::: 
+gas.n 9893 ::: oxygen
+half.n 10351 ::: part;section
+hero.n 10499 ::: 
+hero.n 10511 ::: 
+liberal.n 12125 ::: moderate
+liberal.n 12127 ::: progressive;moderate
+mark.n 12686 ::: character
+message.n 13179 ::: communication;statement
+message.n 13188 ::: significance
+message.n 13205 ::: communication
+phone.n 15327 ::: handset
+popularity.n 15962 ::: 
+relationship.n 17534 ::: association
+relationship.n 17543 ::: association;partnership
+return.n 18319 ::: comeback;reappearance
+return.n 18338 ::: 
+screen.n 19059 ::: cover
+screen.n 19079 ::: cover
+screen.n 19108 ::: 
+session.n 19555 ::: period
+session.n 19562 ::: term;period
+session.n 19596 ::: 
+session.n 19622 ::: meeting
+spirit.n 20418 ::: disposition;character;feeling
+spirit.n 20419 ::: feeling;temperament;character;disposition
+strike.n 21408 ::: attack
+strike.n 21415 ::: attack
+strike.n 21449 ::: hit;pitch
+technique.n 22219 ::: method
+trading.n 22873 ::: transaction
+trading.n 22883 ::: business;commerce
+home.n 2459 ::: 
+still.r 2815 ::: even
+say.v 3809 ::: state;mention;declare
+home.n 3863 ::: 
+fishery.n 3891 ::: 
+caller.n 4049 ::: 
+border.n 4314 ::: boundary
+impenetrable.a 4740 ::: unbreakable
+still.r 5256 ::: 
+trifle.r 5519 ::: 
+stand.v 6598 ::: situate;position;remain;wait
+say.v 6853 ::: state;mention;declare;utter
+say.v 7245 ::: declare;state;remark;utter;mention
+contract.n 9618 ::: agreement
+prominently.r 9645 ::: especially
+chef.n 10692 ::: 
+trading.n 11144 ::: transaction;business
+pod.n 11297 ::: box
+say.v 12331 ::: state;declare;mention
+stand.v 12442 ::: position;wait;sit;situate
+trading.n 12587 ::: commerce;business
+pair.n 13266 ::: duo
+sky.n 14208 ::: atmosphere;stratosphere
+adult.n 368 ::: juvenile
+carrier.n 3077 ::: fleet;ship
+carrier.n 3100 ::: 
+carrier.n 3103 ::: 
+display.n 6652 ::: exhibit;show
+finish.n 9208 ::: 
+finish.n 9220 ::: 
+flight.n 9394 ::: flying
+hero.n 10494 ::: character;person
+householder.n 10820 ::: possessor
+instrumental.n 11152 ::: 
+leader.n 11935 ::: chief;head
+leadership.n 11942 ::: administration;control;command
+mark.n 12648 ::: sign;label
+mark.n 12697 ::: sign;indication
+mark.n 12742 ::: grade;score;assessment
+message.n 13151 ::: speech
+message.n 13168 ::: communication
+message.n 13198 ::: 
+message.n 13206 ::: 
+port.n 15984 ::: harbor
+relationship.n 17494 ::: association
+relationship.n 17517 ::: association
+relationship.n 17574 ::: tie;association
+return.n 18315 ::: 
+return.n 18324 ::: 
+return.n 18325 ::: repetition;following
+return.n 18327 ::: repetition
+return.n 18340 ::: advance
+screen.n 19071 ::: 
+screen.n 19104 ::: 
+sea.n 19166 ::: ocean
+session.n 19573 ::: class
+session.n 19582 ::: term;period
+session.n 19633 ::: 
+spirit.n 20461 ::: character;temperament
+steam.n 21062 ::: 
+step.n 21090 ::: 
+step.n 21097 ::: movement;move
+strike.n 21468 ::: 
+sub.n 21629 ::: 
+team.n 22210 ::: squad
+town.n 22766 ::: 
+trading.n 22864 ::: commerce
+say.v 223 ::: mention;state;declare
+say.v 339 ::: mention;state;declare
+psychological.a 715 ::: mental
+license.v 2584 ::: authorize;permit;allow
+look.n 2756 ::: gaze;glare;scrutiny;view
+responsibility.n 2945 ::: 
+say.v 3009 ::: mention;state;remark;declare
+still.r 3594 ::: even
+contract.n 3636 ::: agreement
+say.v 3693 ::: utter;declare;remark;mention
+honorary.a 4519 ::: 
+home.n 5079 ::: 
+here.r 5223 ::: 
+pull.v 5618 ::: take;get
+say.v 7109 ::: declare;state;mention;remark;utter
+prompt.v 7315 ::: cause;influence
+benefit.v 7321 ::: help
+say.v 7673 ::: state;mention;declare
+say.v 9442 ::: state;declare;mention
+pay.v 9785 ::: provide;give
+say.v 10038 ::: state;mention;declare;explain
+tunic.n 10326 ::: clothes
+say.v 12234 ::: mention;state;declare;maintain
+say.v 12633 ::: state;mention;declare
+say.v 12731 ::: state;declare;advise;mention
+socket.n 13125 ::: pocket
+seem.v 14116 ::: appear
+PC.n 61 ::: computer
+area.n 959 ::: part;region;section;place
+audience.n 1299 ::: people;group
+audience.n 1302 ::: populace;people;group
+battle.n 1747 ::: struggle;encounter;competition
+campus.n 2822 ::: 
+carrier.n 3104 ::: 
+climate.n 3913 ::: atmosphere;situation
+concern.n 4650 ::: worry;anxiety
+depth.n 6274 ::: 
+dvd.n 7224 ::: 
+factory.n 8437 ::: 
+finish.n 9219 ::: 
+flight.n 9382 ::: flying
+flight.n 9408 ::: travel;journey
+hero.n 10496 ::: leader
+home.n 10679 ::: 
+instrumental.n 11134 ::: 
+instrumental.n 11146 ::: 
+leader.n 11932 ::: chief;head
+leadership.n 11939 ::: command;control
+leadership.n 11956 ::: control
+mark.n 12665 ::: label
+mark.n 12673 ::: 
+message.n 13182 ::: communication
+popularity.n 15963 ::: 
+port.n 16002 ::: opening
+port.n 16018 ::: 
+relationship.n 17506 ::: association
+relationship.n 17521 ::: association;tie
+relationship.n 17535 ::: association
+relationship.n 17556 ::: association
+relationship.n 17582 ::: tie;association;partnership
+responsibility.n 18227 ::: 
+return.n 18320 ::: reappearance
+return.n 18323 ::: yield
+screen.n 19061 ::: 
+session.n 19599 ::: period
+session.n 19610 ::: 
+session.n 19614 ::: period
+session.n 19636 ::: class
+session.n 19663 ::: 
+spirit.n 20426 ::: 
+steam.n 21066 ::: 
+step.n 21114 ::: movement
+step.n 21128 ::: move;movement
+studio.n 21575 ::: 
+turn.n 23178 ::: change;shift
+turn.n 23187 ::: show
+say.v 101 ::: state;mention;declare
+repression.n 1250 ::: restriction
+say.v 1417 ::: declare;remark;utter
+say.v 1519 ::: state;declare;utter;mention
+allege.v 1702 ::: maintain;dismiss
+watch.n 2017 ::: 
+say.v 2073 ::: mention;utter;state;declare
+well.r 2227 ::: good
+say.v 2917 ::: state;declare;utter;mention
+bookkeeper.n 2980 ::: 
+begin.v 3638 ::: start;launch;commence
+depth.n 3842 ::: scope;reach
+risky.a 4288 ::: 
+say.v 4362 ::: declare;state;utter
+dead.a 4414 ::: lifeless
+say.v 5420 ::: state;mention;declare
+here.r 5627 ::: 
+say.v 6243 ::: state;utter;mention;declare;express
+downturn.n 7422 ::: 
+concern.n 7645 ::: worry;anxiety
+say.v 9330 ::: state;mention;declare
+accord.v 10587 ::: 
+pain.n 11123 ::: torture;discomfort;disease;throb
+here.r 12395 ::: 
+achieve.v 12942 ::: reach
+say.v 14040 ::: state;declare;mention
+say.v 15575 ::: remark;state;declare;utter
+audience.n 1298 ::: populace;people;group
+battle.n 1742 ::: combat;skirmish
+brain.n 2391 ::: 
+display.n 6644 ::: presentation;show
+display.n 6669 ::: screen
+display.n 6672 ::: screen
+era.n 7718 ::: period;time;epoch
+home.n 10671 ::: 
+instrumental.n 11137 ::: 
+language.n 11847 ::: dialect
+mark.n 12695 ::: 
+message.n 13191 ::: significance
+orchestra.n 14736 ::: symphony
+orchestra.n 14742 ::: 
+popularity.n 15957 ::: 
+popularity.n 15965 ::: 
+relationship.n 17473 ::: association
+relationship.n 17565 ::: association
+relationship.n 17584 ::: association
+responsibility.n 18230 ::: duty
+screen.n 19086 ::: display
+screen.n 19099 ::: display
+strike.n 21417 ::: 
+studio.n 21577 ::: 
+town.n 22761 ::: municipality
+town.n 22769 ::: municipality
+town.n 22772 ::: municipality
+turn.n 23170 ::: period
+turn.n 23180 ::: period;part
+turn.n 23191 ::: movement
+approve.v 215 ::: support;endorse
+say.v 2753 ::: state;utter;call
+commander.n 2798 ::: leader;chief;head
+always.r 3100 ::: 
+say.v 3898 ::: state;declare;mention;remark;utter
+trouble.n 4815 ::: problem
+something.n 6161 ::: 
+return.n 6616 ::: take
+team.n 8162 ::: squad
+doubt.n 9340 ::: certainty
+cup.n 10255 ::: 
+say.v 10463 ::: declare;mention;explain;state
+chef.n 10659 ::: 
+say.v 10711 ::: state;mention;declare
+small.a 11340 ::: 
+say.v 12497 ::: state;declare;opine;mention
+pound.n 14510 ::: 
+contrary.a 14575 ::: 
+battle.n 1746 ::: competition
+campus.n 2823 ::: 
+climate.n 3932 ::: 
+display.n 6620 ::: screen
+display.n 6628 ::: screen
+display.n 6680 ::: 
+gas.n 9883 ::: 
+instrumental.n 11140 ::: 
+leader.n 11925 ::: head;chief
+leader.n 11926 ::: head;chief
+liberal.n 12109 ::: conservative;moderate
+mark.n 12657 ::: score;number
+mark.n 12730 ::: label
+message.n 13160 ::: statement
+message.n 13180 ::: communication
+message.n 13192 ::: meaning
+performance.n 15214 ::: show
+phone.n 15330 ::: handset
+port.n 15990 ::: 
+relationship.n 17526 ::: association
+relationship.n 17542 ::: tie;association
+relationship.n 17550 ::: association
+relationship.n 17558 ::: association
+relationship.n 17615 ::: association
+relationship.n 17619 ::: association
+return.n 18336 ::: 
+screen.n 19082 ::: display
+screen.n 19090 ::: display
+screen.n 19106 ::: display
+sea.n 19156 ::: 
+step.n 21092 ::: move
+strike.n 21436 ::: blow;hit
+studio.n 21585 ::: laboratory
+team.n 22201 ::: squad
+turn.n 23140 ::: period
+turn.n 23157 ::: move;twist;movement
+turn.n 23165 ::: 
+turn.n 23199 ::: 
+violence.n 23845 ::: 
+violence.n 23859 ::: 
+say.v 178 ::: state;declare;mention
+earlier.a 298 ::: previous
+fishery.n 1316 ::: 
+pay.v 2653 ::: give;provide;take;get;acquire
+pecan.n 3710 ::: coconut
+popularity.n 3917 ::: 
+say.v 4905 ::: state;mention;declare
+jump.v 5254 ::: leap;strike;rush;move;bounce
+say.v 5641 ::: state;mention;declare
+always.r 7731 ::: 
+look.n 7894 ::: appearance;aspect;countenance
+here.r 9029 ::: 
+here.r 9722 ::: 
+lover.n 9724 ::: mate
+say.v 11924 ::: declare;advise;opine;state;mention
+say.v 12417 ::: mention;state;declare
+select.v 13294 ::: choose;pick;determine;name
+blind.a 14745 ::: 
+PC.n 86 ::: computer
+adult.n 369 ::: juvenile
+area.n 962 ::: region;space;place;part
+audience.n 1297 ::: people;group
+climate.n 3915 ::: atmosphere;state
+climate.n 3926 ::: atmosphere;situation;state
+concern.n 4639 ::: worry;anxiety
+dark.n 5870 ::: 
+display.n 6655 ::: show
+liberal.n 12113 ::: moderate
+liberal.n 12128 ::: moderate
+mark.n 12687 ::: 
+popularity.n 15955 ::: 
+port.n 15985 ::: 
+relationship.n 17468 ::: partnership
+relationship.n 17529 ::: association
+relationship.n 17530 ::: 
+relationship.n 17599 ::: association;tie
+relationship.n 17614 ::: association
+session.n 19567 ::: term;period
+session.n 19625 ::: term;period
+spirit.n 20443 ::: character;feeling;disposition
+steam.n 21068 ::: 
+sub.n 21628 ::: 
+team.n 22200 ::: crew
+technique.n 22215 ::: method
+town.n 22764 ::: municipality
+turn.n 23149 ::: period
+team.n 1260 ::: 
+hut.n 2700 ::: shelter;dwelling;tent
+always.r 3123 ::: 
+say.v 5076 ::: mention;declare;state;remark;utter
+infinitesimally.r 5591 ::: enthusiastically
+intrigue.v 6210 ::: fascinate;interest;entice
+well.r 6468 ::: 
+say.v 7506 ::: state;declare;mention
+joke.n 11068 ::: jest
+say.v 11411 ::: suppose;state;opine
+own.v 12456 ::: possess
+PC.n 66 ::: 
+area.n 951 ::: region;section;place;part
+area.n 952 ::: region;section;place;part
+brain.n 2393 ::: intelligence;intellect
+carrier.n 3093 ::: passenger
+carrier.n 3102 ::: 
+carrier.n 3105 ::: airline
+climate.n 3909 ::: atmosphere;state
+climate.n 3910 ::: atmosphere
+display.n 6660 ::: 
+display.n 6664 ::: show
+display.n 6671 ::: show
+half.n 10352 ::: part;section
+householder.n 10818 ::: 
+instrumental.n 11148 ::: 
+language.n 11823 ::: dialect;speech
+leader.n 11927 ::: head;chief
+mark.n 12685 ::: success
+mark.n 12700 ::: label
+mark.n 12738 ::: 
+message.n 13147 ::: 
+performance.n 15204 ::: 
+port.n 16021 ::: 
+port.n 16025 ::: 
+relationship.n 17514 ::: association;tie
+relationship.n 17515 ::: association
+screen.n 19091 ::: 
+screen.n 19110 ::: display
+soundtrack.n 20324 ::: 
+spirit.n 20439 ::: energy;character
+spirit.n 20450 ::: character;feeling;disposition
+step.n 21091 ::: 
+trading.n 22865 ::: transaction
+turn.n 23137 ::: go
+turn.n 23174 ::: movement;shift;change
+turn.n 23179 ::: change;move;movement
+stand.v 311 ::: wait;sit;remain;situate
+say.v 3574 ::: declare;state;mention
+concern.v 3665 ::: worry
+species.n 4134 ::: breed;type;variety;kind
+away.r 4851 ::: off;out
+recognize.v 5107 ::: know;observe;see
+wo.v 8440 ::: 
+say.v 9020 ::: state;remark;utter;declare
+say.v 9779 ::: state;mention;declare
+say.v 10086 ::: state;mention;declare
+convulse.a 10627 ::: abruptly
+acute.a 10691 ::: important
+say.v 10975 ::: state;declare
+vine.n 11032 ::: wood
+factory.n 12407 ::: 
+second.r 13128 ::: 
+away.r 13148 ::: out
+pound.n 14516 ::: 
+well.r 15220 ::: good
+PC.n 79 ::: 
+adult.n 364 ::: 
+adult.n 366 ::: young;juvenile
+area.n 960 ::: section;part;scope
+border.n 2213 ::: boundary
+border.n 2221 ::: boundary
+carrier.n 3087 ::: 
+colony.n 4159 ::: settlement;group;region
+dark.n 5867 ::: black;shadow
+flight.n 9388 ::: division
+gas.n 9885 ::: fuel
+half.n 10343 ::: part;section
+householder.n 10812 ::: 
+language.n 11845 ::: dialect
+message.n 13194 ::: 
+popularity.n 15958 ::: attraction
+relationship.n 17467 ::: association
+relationship.n 17525 ::: affair
+relationship.n 17532 ::: association
+relationship.n 17569 ::: connection;association
+relationship.n 17608 ::: association
+relationship.n 17620 ::: association
+screen.n 19057 ::: display
+screen.n 19060 ::: cover
+sea.n 19161 ::: 
+session.n 19577 ::: assembly
+spirit.n 20460 ::: energy;feeling;character
+strike.n 21410 ::: 
+violence.n 23846 ::: 
+fail.v 424 ::: deteriorate
+concern.n 1321 ::: 
+flight.n 1401 ::: flying
+say.v 1441 ::: declare;state;mention
+say.v 1889 ::: opine;state;mention;declare;utter
+worth.a 2858 ::: good
+always.r 3220 ::: ever
+say.v 3624 ::: state;mention;declare
+say.v 3675 ::: state;mention;declare
+run.n 7642 ::: try;effort
+maintain.v 8494 ::: continue;hold
+say.v 9728 ::: declare;mention;utter
+pleather.n 10182 ::: cloak
+leadership.n 11305 ::: administration
+something.n 11818 ::: 
+say.v 11941 ::: utter;state;mention;declare
+say.v 12396 ::: state;mention;declare
+thousand.n 12400 ::: 
+performance.n 12414 ::: 
+area.n 12704 ::: region;section;place;part
+clinical.a 13016 ::: 
+flight.n 13483 ::: 
+accord.v 14517 ::: 
+stand.v 15212 ::: sit;position;wait;place
+area.n 965 ::: region;part;section
+audience.n 1289 ::: crowd;people;group
+carrier.n 3085 ::: passenger
+climate.n 3914 ::: atmosphere
+colony.n 4155 ::: region
+colony.n 4158 ::: group
+colony.n 4167 ::: region
+depth.n 6276 ::: scope;extent
+depth.n 6288 ::: scope
+display.n 6675 ::: show
+gas.n 9890 ::: combustible
+language.n 11846 ::: dialect
+message.n 13158 ::: significance
+message.n 13183 ::: communication
+message.n 13189 ::: communication;address
+orchestra.n 14735 ::: symphony
+performance.n 15209 ::: functioning;operation
+performance.n 15212 ::: show
+port.n 16026 ::: 
+relationship.n 17499 ::: association
+relationship.n 17560 ::: association;affiliation
+responsibility.n 18222 ::: 
+screen.n 19105 ::: display
+session.n 19603 ::: meeting
+session.n 19609 ::: term;period
+session.n 19642 ::: assembly
+session.n 19656 ::: 
+spirit.n 20421 ::: disposition;character
+spirit.n 20451 ::: character
+steam.n 21059 ::: 
+steam.n 21065 ::: 
+steam.n 21071 ::: 
+strike.n 21446 ::: hit;attack;score
+strike.n 21470 ::: attack
+team.n 22208 ::: 
+technique.n 22221 ::: method
+trading.n 22866 ::: 
+turn.n 23150 ::: shift;change;movement
+turn.n 23164 ::: period
+violence.n 23853 ::: hostility
+team.n 1037 ::: 
+focal.a 1050 ::: focus
+team.n 1057 ::: squad
+factory.n 2004 ::: 
+say.v 2831 ::: state;mention;declare
+concern.n 2961 ::: worry;anxiety
+chef.n 3882 ::: 
+say.v 4499 ::: mention;state;declare
+say.v 5158 ::: state;mention;declare
+culinary.a 5822 ::: 
+anyone.n 6835 ::: 
+yogurt.n 7349 ::: food
+stand.v 7837 ::: situate;wait;sit;remain
+touch.v 8468 ::: hold;grasp;handle
+say.v 8654 ::: declare;state;mention
+fishery.n 10027 ::: 
+half.n 11848 ::: 
+own.v 12329 ::: possess
+PC.n 46 ::: computer
+PC.n 55 ::: computer
+PC.n 58 ::: 
+adult.n 361 ::: 
+brain.n 2405 ::: 
+concern.n 4642 ::: worry;anxiety
+contract.n 5116 ::: agreement
+depth.n 6282 ::: 
+display.n 6658 ::: show
+dvd.n 7223 ::: 
+finish.n 9212 ::: result
+flight.n 9396 ::: division
+hero.n 10512 ::: 
+language.n 11848 ::: dialect
+leadership.n 11947 ::: command
+mark.n 12653 ::: 
+performance.n 15211 ::: show
+popularity.n 15966 ::: 
+relationship.n 17490 ::: association
+relationship.n 17540 ::: association;tie
+return.n 18345 ::: 
+session.n 19581 ::: term;period
+session.n 19595 ::: meeting
+session.n 19661 ::: period
+strike.n 21441 ::: attack;bombardment
+strike.n 21464 ::: attack
+town.n 22770 ::: municipality
+trading.n 22869 ::: transaction
+trading.n 22878 ::: transaction
+trading.n 22882 ::: commerce;business
+turn.n 23144 ::: change;move;movement
+turn.n 23186 ::: twist;movement
+say.v 140 ::: mention;state;declare
+say.v 3303 ::: state;declare;mention
+assess.v 3804 ::: examine;consider;determine
+say.v 4483 ::: state;declare;mention
+say.v 4918 ::: state;declare;mention
+say.v 6023 ::: state;declare;mention
+supernova.n 6399 ::: explosive
+here.r 7047 ::: 
+still.r 8572 ::: 
+assist.v 8850 ::: support;help
+unsuccessfully.r 9404 ::: 
+say.v 11348 ::: state;declare;mention
+seem.v 13295 ::: appear
+say.v 14064 ::: mention;declare;utter
+PC.n 39 ::: 
+concern.n 4640 ::: 
+flight.n 9403 ::: 
+hero.n 10490 ::: 
+householder.n 10808 ::: possessor
+leader.n 11930 ::: head;chief
+leadership.n 11953 ::: command
+liberal.n 12133 ::: moderate
+mark.n 12677 ::: symbol;label
+message.n 13145 ::: speech
+message.n 13170 ::: communication
+message.n 13176 ::: 
+phone.n 15331 ::: handset
+popularity.n 15960 ::: 
+relationship.n 17483 ::: association
+relationship.n 17594 ::: association
+relationship.n 17609 ::: association;partnership
+responsibility.n 18220 ::: 
+return.n 18316 ::: 
+return.n 18337 ::: repetition
+return.n 18342 ::: 
+screen.n 19111 ::: display
+sea.n 19155 ::: ocean
+session.n 19617 ::: period
+session.n 19621 ::: 
+session.n 19628 ::: 
+session.n 19629 ::: 
+spirit.n 20434 ::: 
+technique.n 22212 ::: method
+well.r 655 ::: good
+psychological.a 1549 ::: mental
+say.v 2239 ::: state;mention;declare
+return.n 2313 ::: repetition
+chef.n 3285 ::: 
+sea.n 6385 ::: 
+relationship.n 10009 ::: association;partnership
+seize.v 10109 ::: 
+home.n 12703 ::: residence;place;area
+PC.n 54 ::: 
+audience.n 1290 ::: crowd;populace;people;group
+campus.n 2824 ::: 
+depth.n 6298 ::: 
+flight.n 9387 ::: 
+flight.n 9395 ::: flying
+flight.n 9412 ::: journey
+home.n 10670 ::: 
+home.n 10677 ::: residence;dwelling;place
+mark.n 12735 ::: sign;label
+message.n 13197 ::: communication
+performance.n 15205 ::: 
+popularity.n 15954 ::: 
+relationship.n 17497 ::: 
+relationship.n 17523 ::: association;partnership
+relationship.n 17545 ::: association;partnership
+relationship.n 17605 ::: association
+return.n 18322 ::: 
+return.n 18332 ::: 
+screen.n 19100 ::: display
+session.n 19560 ::: period
+session.n 19632 ::: 
+spirit.n 20414 ::: feeling;character;temperament
+step.n 21111 ::: move
+strike.n 21422 ::: attack
+team.n 22198 ::: squad
+trading.n 22874 ::: business;commerce
+turn.n 23151 ::: period
+turn.n 23163 ::: shift;change;movement
+turn.n 23189 ::: go;move
+turn.n 23205 ::: 
+violence.n 23856 ::: 
+preference.n 2024 ::: choice;requirement;wish
+train.v 3667 ::: educate;teach
+say.v 5490 ::: order;declare;tell;command;state;advise
+say.v 8845 ::: state;mention;declare
+accrue.v 9782 ::: receive
+compel.v 9929 ::: force;persuade
+home.n 10636 ::: place;dwelling;residence;area
+say.v 10637 ::: state;declare;mention;remark
+burr.n 12601 ::: dirt;bit
+home.n 12719 ::: residence;place
+put.a 15655 ::: 
+PC.n 49 ::: 
+area.n 969 ::: region;place;section;part
+carrier.n 3096 ::: 
+climate.n 3921 ::: situation;state
+climate.n 3928 ::: atmosphere;situation
+era.n 7727 ::: 
+gas.n 9894 ::: fuel
+language.n 11835 ::: dialect
+language.n 11841 ::: dialect
+movement.n 13803 ::: 
+port.n 15992 ::: 
+relationship.n 17561 ::: association
+relationship.n 17572 ::: association
+session.n 19601 ::: 
+session.n 19649 ::: 
+strike.n 21416 ::: hit;attack;score
+studio.n 21578 ::: 
+studio.n 21580 ::: 
+team.n 22204 ::: 
+turn.n 23154 ::: change;period
+chef.n 619 ::: 
+say.v 2422 ::: state;mention;declare
+trading.n 3034 ::: 
+movement.n 5209 ::: passage;conveyance;transport
+inner.a 5741 ::: 
+sky.n 6393 ::: atmosphere
+say.v 8844 ::: mention;declare;state
+say.v 9444 ::: state;mention;declare
+honor.v 11938 ::: commemorate
+finally.r 12265 ::: 
+lock.n 13393 ::: clip
+pound.n 14514 ::: 
+PC.n 52 ::: 
+battle.n 1750 ::: combat;action;struggle;warfare
+hero.n 10488 ::: 
+home.n 10672 ::: location;place;area
+mark.n 12734 ::: 
+movement.n 13799 ::: effort;change
+relationship.n 17489 ::: association
+relationship.n 17592 ::: association
+relationship.n 17601 ::: association
+screen.n 19114 ::: display
+session.n 19648 ::: 
+spirit.n 20415 ::: energy;enthusiasm;character
+spirit.n 20420 ::: character;feeling
+step.n 21098 ::: 
+strike.n 21428 ::: attack
+team.n 22197 ::: crew
+turn.n 23160 ::: movement
+turn.n 23176 ::: move;position;part;role
+turn.n 23211 ::: 
+earlier.a 209 ::: previous
+watch.n 347 ::: 
+team.n 1040 ::: 
+say.v 2962 ::: state;declare;mention
+slidewalk.n 7054 ::: walkway
+combat.n 8119 ::: fighting;warfare
+detail.v 11910 ::: 
+team.n 12127 ::: 
+stubborn.a 12565 ::: unyielding
+pull.v 13120 ::: push;bring;get;take
+say.v 13689 ::: state;mention;declare
+watch.n 13702 ::: 
+accord.v 13910 ::: 
+battle.n 1743 ::: combat;fight;competition
+brain.n 2398 ::: 
+brain.n 2399 ::: 
+carrier.n 3088 ::: ship
+flight.n 9385 ::: flying
+hero.n 10506 ::: 
+home.n 10678 ::: 
+relationship.n 17496 ::: association;tie
+relationship.n 17520 ::: association
+responsibility.n 18223 ::: 
+session.n 19583 ::: semester;period;term
+session.n 19615 ::: term;period
+session.n 19626 ::: 
+strike.n 21457 ::: attack
+strike.n 21469 ::: goal
+team.n 22202 ::: squad
+well.r 687 ::: 
+small.a 1006 ::: little;diminutive
+always.r 3292 ::: 
+say.v 5545 ::: remark;utter
+concern.n 8645 ::: 
+team.n 10455 ::: crew
+dismantle.v 10507 ::: remove;decrease;disassemble
+here.r 12320 ::: 
+say.v 13735 ::: state;mention;declare
+jewelry.n 15019 ::: jewellery
+PC.n 77 ::: 
+area.n 953 ::: region;place;section;part
+colony.n 4160 ::: region;group
+commander.n 4345 ::: leader;head
+contract.n 5124 ::: agreement
+display.n 6619 ::: exhibit
+display.n 6676 ::: image
+instrumental.n 11139 ::: 
+leadership.n 11946 ::: administration;command;control
+liberal.n 12106 ::: moderate
+performance.n 15215 ::: effort;show
+port.n 15999 ::: 
+session.n 19575 ::: 
+session.n 19647 ::: meeting
+soundtrack.n 20325 ::: 
+steam.n 21073 ::: 
+turn.n 23168 ::: 
+turn.n 23210 ::: twist;movement;move
+say.v 618 ::: declare;state;mention
+say.v 1627 ::: state;declare;mention
+say.v 2060 ::: state;mention;declare
+team.n 2066 ::: 
+team.n 4001 ::: 
+say.v 4784 ::: state;mention;declare
+narrowly.r 12128 ::: barely
+stand.v 13482 ::: sit;remain;wait
+area.n 957 ::: field;section;region;part
+audience.n 1292 ::: populace;group;people
+border.n 2223 ::: boundary
+climate.n 3935 ::: situation;state
+combat.n 4258 ::: battle;warfare
+dark.n 5866 ::: black
+depth.n 6268 ::: extent
+depth.n 6294 ::: part
+flight.n 9392 ::: flying
+leader.n 11931 ::: head;administrator;authority
+message.n 13167 ::: communication
+orchestra.n 14746 ::: 
+relationship.n 17537 ::: association
+return.n 18344 ::: 
+sea.n 19162 ::: 
+session.n 19557 ::: meeting
+session.n 19566 ::: period
+soundtrack.n 20330 ::: 
+spirit.n 20432 ::: feeling;belief
+spirit.n 20444 ::: temperament;character;feeling
+step.n 21115 ::: move
+strike.n 21479 ::: attack
+team.n 22203 ::: squad;crew
+turn.n 23214 ::: move;movement
+away.r 1031 ::: off;out
+say.v 1385 ::: declare;state;mention
+pair.n 2065 ::: 
+concern.n 2127 ::: worry;anxiety
+say.v 6030 ::: state;declare;mention;opine
+ebony.n 8506 ::: black
+say.v 8892 ::: declare;state
+commonly.r 9135 ::: usually
+finish.n 11912 ::: completion;end
+contract.n 5115 ::: agreement
+display.n 6670 ::: image;show
+factory.n 8443 ::: 
+half.n 10345 ::: section;part
+half.n 10349 ::: part;section
+householder.n 10816 ::: possessor
+instrumental.n 11149 ::: 
+leadership.n 11958 ::: 
+message.n 13161 ::: 
+performance.n 15203 ::: achievement
+performance.n 15208 ::: show
+relationship.n 17477 ::: partnership;association
+town.n 22768 ::: 
+manage.v 1392 ::: attempt
+message.n 4367 ::: instruction;speech
+small.a 6383 ::: 
+say.v 7574 ::: state;declare
+team.n 7581 ::: organization
+small.a 8115 ::: 
+leader.n 12088 ::: 
+say.v 12375 ::: mention;state;declare
+here.r 13777 ::: 
+manage.v 13805 ::: run;control;direct
+climate.n 3916 ::: atmosphere
+dark.n 5875 ::: black
+depth.n 6277 ::: 
+hero.n 10492 ::: 
+instrumental.n 11135 ::: 
+instrumental.n 11153 ::: 
+mark.n 12649 ::: 
+message.n 13175 ::: communication
+spirit.n 20435 ::: disposition;character
+trading.n 22875 ::: business;commerce
+commander.n 1395 ::: leader;chief;head
+return.n 2312 ::: repetition
+trading.n 2684 ::: transaction
+several.a 4658 ::: some
+reef.n 6388 ::: seashore
+well.r 9322 ::: good
+say.v 10547 ::: state;mention;declare
+species.n 13439 ::: genus;breed;kind;type
+gas.n 9888 ::: fuel
+home.n 10682 ::: residence;place
+mark.n 12731 ::: indicator
+message.n 13174 ::: statement
+relationship.n 17583 ::: association
+return.n 18334 ::: 
+screen.n 19068 ::: display
+screen.n 19070 ::: display
+screen.n 19083 ::: 
+session.n 19659 ::: period;class
+studio.n 21582 ::: work
+turn.n 23184 ::: 
+psychological.a 2043 ::: mental
+small.a 3723 ::: 
+overgrow.n 5694 ::: 
+leader.n 5758 ::: chief;head
+overwhelming.a 8439 ::: huge;big
+say.v 11527 ::: state;mention;declare
+machinery.n 12324 ::: equipment
+audience.n 1294 ::: populace;people;group
+carrier.n 3068 ::: 
+householder.n 10807 ::: possessor
+mark.n 12683 ::: 
+message.n 13146 ::: communication
+message.n 13184 ::: 
+relationship.n 17480 ::: association
+screen.n 19101 ::: display
+session.n 19579 ::: period
+step.n 21107 ::: move
+turn.n 23161 ::: curve;end
+turn.n 23197 ::: move;movement
+violence.n 23847 ::: aggression
+say.v 1696 ::: state;declare;mention
+contract.n 4796 ::: agreement
+say.v 13081 ::: state;declare;mention
+watch.n 13897 ::: 
+area.n 949 ::: region;territory;part;section
+carrier.n 3067 ::: warship;fleet;ship
+display.n 6634 ::: exhibit
+flight.n 9378 ::: journey
+half.n 10347 ::: part;section
+home.n 10683 ::: dwelling;structure;place
+liberal.n 12129 ::: moderate
+message.n 13144 ::: 
+message.n 13149 ::: statement
+movement.n 13806 ::: 
+performance.n 15210 ::: show
+port.n 15998 ::: 
+return.n 18314 ::: 
+screen.n 19055 ::: 
+sea.n 19159 ::: ocean
+sea.n 19160 ::: 
+soundtrack.n 20334 ::: 
+spirit.n 20457 ::: 
+sub.n 21620 ::: 
+area.n 12403 ::: region;section;location;part;place
+carrier.n 3080 ::: 
+dvd.n 7214 ::: 
+era.n 7729 ::: 
+householder.n 10811 ::: 
+householder.n 10815 ::: possessor
+mark.n 12668 ::: effect;sign
+screen.n 19084 ::: display
+spirit.n 20416 ::: energy;character;feeling
+spirit.n 20431 ::: feeling;character
+strike.n 21478 ::: attack
+team.n 22206 ::: 
+focal.a 1033 ::: 
+assess.v 3296 ::: evaluate;examine;think
+phone.n 3712 ::: 
+contract.n 5121 ::: 
+half.n 10339 ::: part;section
+home.n 10675 ::: residence;dwelling;place
+instrumental.n 11131 ::: 
+mark.n 12669 ::: label
+port.n 16028 ::: 
+relationship.n 17598 ::: association
+spirit.n 20413 ::: feeling;character
+town.n 22771 ::: municipality;district
+say.v 266 ::: state;mention;declare
+say.v 700 ::: state;declare;mention
+factory.n 1451 ::: 
+trading.n 3419 ::: commerce;transaction
+PC.n 73 ::: 
+area.n 967 ::: region;place;part;section
+battle.n 1744 ::: combat;warfare;skirmish
+climate.n 3924 ::: atmosphere
+concern.n 4648 ::: business
+display.n 6636 ::: 
+relationship.n 17470 ::: association;partnership
+relationship.n 17505 ::: association;partnership
+relationship.n 17508 ::: connection;association
+express.v 2619 ::: declare;communicate;state
+say.v 4856 ::: declare;state;utter
+seal.v 8548 ::: secure;fix
+accused.v 9275 ::: prosecutor
+watch.n 11267 ::: clock
+gate.n 12001 ::: entrance;passage;passageway
+pay.v 13806 ::: give;provide;offer
+brain.n 2397 ::: intellect
+carrier.n 3078 ::: 
+half.n 10342 ::: part;section
+householder.n 10813 ::: possessor
+movement.n 13807 ::: effort;group
+port.n 15996 ::: 
+relationship.n 17593 ::: connection;association
+screen.n 19102 ::: display
+strike.n 21423 ::: attack;bombardment
+turn.n 23167 ::: shift;movement;change
+concern.v 2052 ::: worry
+say.v 5557 ::: utter;declare
+team.n 5742 ::: crew;troop
+chowder.n 6233 ::: dough
+culinary.a 7921 ::: 
+say.v 12109 ::: state;declare;mention
+say.v 12770 ::: state;declare;mention
+brain.n 2404 ::: 
+concern.n 4644 ::: worry;anxiety
+era.n 7728 ::: term
+gas.n 9895 ::: oil
+leadership.n 11943 ::: command;control
+message.n 13187 ::: 
+message.n 13203 ::: 
+screen.n 19063 ::: 
+town.n 22774 ::: 
+gift.n 1368 ::: 
+singular.n 2408 ::: sole
+turquoise.n 6390 ::: azure;tawny
+turn.n 7915 ::: 
+say.v 10878 ::: mention;state;declare
+crucial.a 10938 ::: vital;important
+preference.n 13812 ::: choice;wish
+commander.n 4342 ::: leader;head
+commander.n 4346 ::: leader;head
+hero.n 10508 ::: 
+mark.n 12671 ::: label
+relationship.n 17554 ::: connection;association
+spirit.n 20429 ::: energy
+crucial.a 1472 ::: vital;important
+still.r 6933 ::: 
+culinary.a 10520 ::: 
+say.v 11249 ::: mention;declare;state
+say.v 13264 ::: mention;state;declare
+area.n 963 ::: region;section;place;part
+border.n 2225 ::: boundary
+factory.n 8438 ::: 
+finish.n 9210 ::: 
+leader.n 11936 ::: chief;head
+turn.n 23201 ::: show
+factory.n 1468 ::: 
+concern.n 4783 ::: business
+say.v 12286 ::: state;declare;mention
+area.n 968 ::: region;section;place;part
+carrier.n 3073 ::: ship;fleet
+display.n 6642 ::: show
+finding.n 9204 ::: 
+flight.n 9389 ::: journey
+orchestra.n 14745 ::: symphony
+spirit.n 20447 ::: energy;character;feeling
+strike.n 21419 ::: 
+studio.n 21572 ::: 
+town.n 22765 ::: 
+turn.n 23198 ::: end
+approve.v 340 ::: permit
+say.v 8564 ::: state;declare;mention
+pair.n 11631 ::: duo
+area.n 966 ::: region;section;place;part
+area.n 971 ::: field;region;section;part
+flight.n 9384 ::: 
+say.v 2152 ::: state;maintain;declare
+scout.a 11999 ::: visit
+area.n 956 ::: territory;scope
+factory.n 8442 ::: 
+finish.n 9216 ::: 
+step.n 21108 ::: 
+always.r 10915 ::: 
+say.v 12309 ::: state;mention;declare
+battle.n 1748 ::: combat;warfare;skirmish
+display.n 6627 ::: show;exhibit
+flight.n 9405 ::: journey
+language.n 11836 ::: dialect;speech
+relationship.n 17577 ::: association;tie
+session.n 19652 ::: meeting
+turn.n 23195 ::: move;shift;change
+small.a 1407 ::: inferior;diminutive
+laboratory.n 1457 ::: 
+home.n 2406 ::: residence;abode;place
+assess.v 3300 ::: evaluate;examine;consider
+home.n 10673 ::: 
+town.n 22767 ::: municipality
+turn.n 23147 ::: movement
+allege.v 12100 ::: 
+message.n 13177 ::: 
+port.n 15983 ::: 
+turn.n 23135 ::: period
+hearing.n 2160 ::: trial
+say.v 2166 ::: state;declare;mention
+area.n 5202 ::: region;place;part;section
+benefit.v 14476 ::: help
+relationship.n 17573 ::: association
+say.v 10126 ::: mention;state;declare
+worth.a 12008 ::: good
+mark.n 12739 ::: 
+team.n 22199 ::: squad
+watch.n 8510 ::: clock
+here.r 1452 ::: 
+say.v 1464 ::: state;mention;declare
+here.r 5248 ::: 
+drag.v 13434 ::: push;force;get;put
+say.v 261 ::: state;declare
+glower.v 3238 ::: gleeful
+pair.n 9283 ::: duo
+annoy.a 11059 ::: troublesome
+allege.v 11622 ::: 
+small.a 13510 ::: little;slight
+area.n 950 ::: region;place;section;part
+area.n 964 ::: section;region;part
+concern.n 260 ::: worry
+always.r 5552 ::: 
+session.n 19571 ::: 
+sub.n 21615 ::: 
+violence.n 23857 ::: 
+acquisition.n 247 ::: purchase;buy
+dark.n 3663 ::: black
+still.r 6237 ::: 
+gift.n 10497 ::: talent;aptitude
+small.a 13905 ::: 
+carrier.n 3106 ::: passenger
+gate.n 5246 ::: 
+conceive.v 11617 ::: create;plan;arrange
+relationship.n 17588 ::: association
+town.n 22775 ::: 
+say.v 3655 ::: state;declare;mention
+allege.v 11614 ::: 
+criminal.a 11615 ::: 
+depth.n 6301 ::: grade
+relationship.n 17503 ::: connection;association
+householder.n 10814 ::: person
+movement.n 13811 ::: change
+town.n 22762 ::: 
+responsibility.n 18229 ::: 
+householder.n 10810 ::: person;possessor
+householder.n 10817 ::: person;possessor
+home.n 10681 ::: 
+area.n 972 ::: field;subject;scope;matter
+session.n 19570 ::: meeting
+PC.n 65 ::: 
+message.n 13201 ::: signal;instruction;effect
